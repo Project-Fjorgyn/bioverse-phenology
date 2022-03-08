@@ -1,0 +1,2268 @@
+,phenophase_id,percent_yes,month,phenophase_name,species_id
+0,482,1.0,1,Initial growth,1436
+1,488,0.9833333333333334,7,Leaves,1436
+2,501,0.5182616736014795,8,Open flowers,1436
+1,482,0.5,4,Initial growth,174
+2,488,1.0,6,Leaves,174
+3,500,1.0,6,Flowers or flower buds,174
+4,501,1.0,6,Open flowers,174
+5,516,1.0,7,Fruits,174
+0,390,1.0,8,Ripe fruits,174
+0,371,0.6333333333333333,4,Breaking leaf buds,1174
+5,500,0.3,4,Flowers or flower buds,1174
+1,467,0.75,5,Increasing leaf size,1174
+3,483,1.0,5,Leaves,1174
+6,516,0.08333333333333333,6,Fruits,1174
+4,498,0.95,9,Colored leaves,1174
+2,471,0.9166666666666667,10,Falling leaves,1174
+0,371,0.5714285714285714,4,Breaking leaf buds,1446
+2,467,0.8,5,Increasing leaf size,1446
+3,483,1.0,5,Leaves,1446
+5,500,0.6,5,Flowers or flower buds,1446
+6,501,0.21666666666666667,6,Open flowers,1446
+7,516,1.0,7,Fruits,1446
+1,390,0.4,8,Ripe fruits,1446
+4,498,0.575,9,Colored leaves,1446
+0,371,0.3333333333333333,4,Breaking leaf buds,93
+1,467,0.6881720430107527,5,Increasing leaf size,93
+3,483,1.0,5,Leaves,93
+5,516,0.3333333333333333,7,Fruits,93
+2,471,0.8238410596026491,10,Falling leaves,93
+4,498,1.0,10,Colored leaves,93
+0,371,0.125,5,Breaking leaf buds,79
+1,467,0.34,6,Increasing leaf size,79
+3,483,1.0,6,Leaves,79
+5,516,0.5833333333333333,8,Fruits,79
+4,498,1.0,10,Colored leaves,79
+2,471,0.5916666666666667,11,Falling leaves,79
+0,371,0.5333333333333333,4,Breaking leaf buds,724
+1,467,0.8333333333333334,5,Increasing leaf size,724
+5,500,0.16666666666666666,5,Flowers or flower buds,724
+3,483,1.0,6,Leaves,724
+2,471,1.0,10,Falling leaves,724
+4,498,1.0,10,Colored leaves,724
+0,489,1.0,6,Leaves,1627
+1,492,1.0,6,Initial growth,1627
+2,493,1.0,8,Flower heads,1627
+3,494,1.0,8,Open flowers,1627
+4,502,0.5,9,Pollen release,1627
+5,516,0.5,9,Fruits,1627
+0,489,1.0,6,Leaves,910
+1,493,1.0,7,Flower heads,910
+2,494,0.16666666666666666,7,Open flowers,910
+3,502,0.16666666666666666,7,Pollen release,910
+8,502,0.3333333333333333,1,Pollen release,1048
+6,500,0.8055555555555556,3,Flowers or flower buds,1048
+0,371,0.23809523809523808,4,Breaking leaf buds,1048
+7,501,0.4642857142857143,4,Open flowers,1048
+2,467,0.75,5,Increasing leaf size,1048
+4,483,1.0,5,Leaves,1048
+10,516,0.75,5,Fruits,1048
+1,390,0.2,6,Ripe fruits,1048
+9,504,0.2,6,Recent fruit or seed drop,1048
+3,471,1.0,9,Falling leaves,1048
+5,498,1.0,9,Colored leaves,1048
+5,500,0.41666666666666663,3,Flowers or flower buds,71
+6,501,0.2222222222222222,4,Open flowers,71
+0,371,0.6666666666666666,5,Breaking leaf buds,71
+1,467,0.48214285714285715,5,Increasing leaf size,71
+3,483,1.0,6,Leaves,71
+7,516,1.0,7,Fruits,71
+2,471,0.75,10,Falling leaves,71
+4,498,0.6190476190476191,10,Colored leaves,71
+0,371,0.5,4,Breaking leaf buds,823
+2,467,0.8388888888888889,5,Increasing leaf size,823
+4,483,1.0,5,Leaves,823
+6,516,0.8645833333333333,8,Fruits,823
+1,390,0.2962962962962963,9,Ripe fruits,823
+5,498,0.96875,10,Colored leaves,823
+3,471,0.8888888888888888,11,Falling leaves,823
+0,371,1.0,4,Breaking leaf buds,91
+2,467,0.6458333333333333,5,Increasing leaf size,91
+4,483,1.0,6,Leaves,91
+6,500,0.6190476190476191,6,Flowers or flower buds,91
+7,501,0.05263157894736842,6,Open flowers,91
+5,498,1.0,9,Colored leaves,91
+3,471,0.8571428571428572,10,Falling leaves,91
+1,390,1.0,11,Ripe fruits,91
+8,516,1.0,11,Fruits,91
+0,371,0.35,2,Breaking leaf buds,206
+6,500,0.6,4,Flowers or flower buds,206
+4,483,1.0,5,Leaves,206
+7,501,0.4166666666666667,5,Open flowers,206
+2,467,1.0,6,Increasing leaf size,206
+9,516,1.0,6,Fruits,206
+1,390,0.25,8,Ripe fruits,206
+8,504,0.25,8,Recent fruit or seed drop,206
+3,471,0.5555555555555556,9,Falling leaves,206
+5,498,0.9285714285714286,10,Colored leaves,206
+3,500,1.0,6,Flowers or flower buds,963
+1,482,1.0,7,Initial growth,963
+2,488,1.0,7,Leaves,963
+4,501,1.0,8,Open flowers,963
+5,504,1.0,8,Recent fruit or seed drop,963
+6,516,1.0,8,Fruits,963
+0,390,1.0,9,Ripe fruits,963
+0,371,1.0,5,Breaking leaf buds,1762
+2,467,1.0,6,Increasing leaf size,1762
+4,483,1.0,6,Leaves,1762
+6,500,1.0,6,Flowers or flower buds,1762
+7,501,0.2,7,Open flowers,1762
+1,390,1.0,8,Ripe fruits,1762
+3,471,0.5,8,Falling leaves,1762
+8,516,1.0,8,Fruits,1762
+5,498,1.0,9,Colored leaves,1762
+1,390,0.5,1,Ripe fruits,970
+6,504,0.5,1,Recent fruit or seed drop,970
+0,371,0.5857142857142856,4,Breaking leaf buds,970
+2,467,0.9583333333333333,5,Increasing leaf size,970
+4,483,1.0,5,Leaves,970
+5,498,1.0,9,Colored leaves,970
+7,516,0.625,9,Fruits,970
+3,471,1.0,10,Falling leaves,970
+0,482,0.75,5,Initial growth,938
+1,488,1.0,6,Leaves,938
+2,500,1.0,7,Flowers or flower buds,938
+3,501,1.0,8,Open flowers,938
+0,371,0.47,4,Breaking leaf buds,76
+2,467,0.9090909090909091,5,Increasing leaf size,76
+4,483,1.0,5,Leaves,76
+8,516,1.0,7,Fruits,76
+1,390,0.3333333333333333,10,Ripe fruits,76
+3,471,0.6666666666666666,10,Falling leaves,76
+5,498,1.0,10,Colored leaves,76
+6,500,1.0,12,Flowers or flower buds,76
+7,501,1.0,12,Open flowers,76
+0,371,0.3939393939393939,3,Breaking leaf buds,1246
+2,467,0.8718718718718719,4,Increasing leaf size,1246
+6,500,0.011627906976744186,4,Flowers or flower buds,1246
+4,483,1.0,5,Leaves,1246
+7,501,0.4782608695652174,5,Open flowers,1246
+1,390,0.65,10,Ripe fruits,1246
+8,516,0.65,10,Fruits,1246
+5,498,1.0,11,Colored leaves,1246
+3,471,1.0,12,Falling leaves,1246
+0,371,0.42614601018675724,4,Breaking leaf buds,444
+1,467,0.6333333333333333,5,Increasing leaf size,444
+3,483,1.0,5,Leaves,444
+4,498,1.0,9,Colored leaves,444
+2,471,0.5,10,Falling leaves,444
+0,371,0.5916666666666667,4,Breaking leaf buds,1208
+2,467,0.8166666666666667,5,Increasing leaf size,1208
+4,483,1.0,5,Leaves,1208
+6,500,0.6,5,Flowers or flower buds,1208
+7,501,0.3333333333333333,5,Open flowers,1208
+9,516,1.0,7,Fruits,1208
+1,390,0.26595744680851063,9,Ripe fruits,1208
+8,504,0.25,9,Recent fruit or seed drop,1208
+5,498,1.0,10,Colored leaves,1208
+3,471,1.0,11,Falling leaves,1208
+3,500,1.0,4,Flowers or flower buds,434
+4,501,1.0,5,Open flowers,434
+0,390,1.0,6,Ripe fruits,434
+1,482,0.7733333333333333,6,Initial growth,434
+5,504,1.0,6,Recent fruit or seed drop,434
+6,516,1.0,6,Fruits,434
+2,488,1.0,7,Leaves,434
+3,373,0.7272727272727273,4,Breaking leaf buds,20
+4,374,0.578125,5,All leaf buds broken,20
+0,207,0.1,6,End of flowering,20
+1,210,1.0,6,Open flowers,20
+2,211,1.0,6,Full flowering,20
+0,371,0.8333333333333334,4,Breaking leaf buds,1173
+6,500,0.805982905982906,4,Flowers or flower buds,1173
+2,467,0.7666666666666666,5,Increasing leaf size,1173
+4,483,1.0,5,Leaves,1173
+7,501,0.3302845528455285,5,Open flowers,1173
+1,390,0.6421254801536491,6,Ripe fruits,1173
+9,516,1.0,6,Fruits,1173
+8,504,0.8920454545454546,7,Recent fruit or seed drop,1173
+3,471,1.0,11,Falling leaves,1173
+5,498,1.0,11,Colored leaves,1173
+4,490,1.0,1,Pollen cones,39
+5,491,0.75,2,Recent cone or seed drop,39
+2,480,0.5647058823529412,5,Breaking needle buds,39
+3,485,0.98,6,Young needles,39
+0,392,0.3055555555555556,8,Unripe seed cones,39
+1,393,0.96875,9,Ripe seed cones,39
+6,495,0.125,11,Open pollen cones,39
+0,371,0.6666666666666666,5,Breaking leaf buds,320
+6,500,0.42857142857142855,5,Flowers or flower buds,320
+4,483,1.0,6,Leaves,320
+1,390,1.0,7,Ripe fruits,320
+2,467,1.0,7,Increasing leaf size,320
+7,504,1.0,7,Recent fruit or seed drop,320
+8,516,1.0,7,Fruits,320
+3,471,1.0,9,Falling leaves,320
+5,498,1.0,9,Colored leaves,320
+0,482,1.0,5,Initial growth,725
+1,488,1.0,5,Leaves,725
+2,501,1.0,8,Open flowers,725
+5,500,0.6666666666666666,5,Flowers or flower buds,982
+6,501,0.4166666666666667,5,Open flowers,982
+0,371,1.0,6,Breaking leaf buds,982
+3,483,1.0,7,Leaves,982
+8,516,1.0,7,Fruits,982
+1,390,0.9166666666666666,9,Ripe fruits,982
+4,498,0.75,9,Colored leaves,982
+7,504,0.5833333333333334,9,Recent fruit or seed drop,982
+2,471,0.6666666666666666,10,Falling leaves,982
+6,500,1.0,2,Flowers or flower buds,72
+8,502,0.6666666666666666,3,Pollen release,72
+0,371,0.75,4,Breaking leaf buds,72
+7,501,0.37037037037037035,4,Open flowers,72
+2,467,0.7685185185185186,5,Increasing leaf size,72
+4,483,1.0,6,Leaves,72
+10,516,1.0,7,Fruits,72
+1,390,0.5,8,Ripe fruits,72
+9,504,0.5,8,Recent fruit or seed drop,72
+5,498,0.9857142857142858,9,Colored leaves,72
+3,471,0.962013201320132,10,Falling leaves,72
+4,500,0.5,5,Flowers or flower buds,1485
+5,502,0.09090909090909091,5,Pollen release,1485
+0,371,1.0,6,Breaking leaf buds,1485
+2,483,1.0,6,Leaves,1485
+6,516,1.0,8,Fruits,1485
+1,471,1.0,10,Falling leaves,1485
+3,498,1.0,10,Colored leaves,1485
+2,492,1.0,5,Initial growth,129
+1,489,1.0,7,Leaves,129
+3,493,0.8666666666666667,8,Flower heads,129
+0,390,1.0,9,Ripe fruits,129
+4,494,0.1111111111111111,9,Open flowers,129
+7,516,1.0,9,Fruits,129
+5,502,0.08333333333333333,10,Pollen release,129
+6,504,0.5833333333333334,10,Recent fruit or seed drop,129
+1,483,1.0,1,Leaves,105
+3,498,1.0,1,Colored leaves,105
+2,484,0.9833333333333334,6,Young leaves,105
+4,500,1.0,7,Flowers or flower buds,105
+0,471,1.0,8,Falling leaves,105
+1,482,0.6666666666666666,5,Initial growth,171
+2,488,1.0,6,Leaves,171
+3,500,0.6,7,Flowers or flower buds,171
+4,501,0.2727272727272727,8,Open flowers,171
+0,390,0.7272727272727273,9,Ripe fruits,171
+5,504,0.4242424242424242,9,Recent fruit or seed drop,171
+6,516,0.7272727272727273,9,Fruits,171
+5,500,0.7857142857142857,4,Flowers or flower buds,1188
+0,371,0.14285714285714285,5,Breaking leaf buds,1188
+6,501,0.21428571428571427,5,Open flowers,1188
+1,467,1.0,6,Increasing leaf size,1188
+3,483,1.0,6,Leaves,1188
+2,471,1.0,10,Falling leaves,1188
+4,498,1.0,10,Colored leaves,1188
+0,371,0.7368421052631579,5,Breaking leaf buds,1176
+1,467,0.8947368421052632,5,Increasing leaf size,1176
+3,483,1.0,5,Leaves,1176
+2,471,0.775,10,Falling leaves,1176
+4,498,0.9,10,Colored leaves,1176
+1,390,1.0,2,Ripe fruits,873
+8,504,1.0,2,Recent fruit or seed drop,873
+9,516,1.0,2,Fruits,873
+0,371,1.0,5,Breaking leaf buds,873
+2,467,1.0,5,Increasing leaf size,873
+6,500,0.25,5,Flowers or flower buds,873
+7,501,0.1,5,Open flowers,873
+4,483,1.0,6,Leaves,873
+3,471,1.0,10,Falling leaves,873
+5,498,1.0,10,Colored leaves,873
+0,482,1.0,4,Initial growth,1321
+1,488,1.0,5,Leaves,1321
+2,500,1.0,6,Flowers or flower buds,1321
+3,501,1.0,6,Open flowers,1321
+0,371,0.3,4,Breaking leaf buds,28
+2,467,0.5,5,Increasing leaf size,28
+4,483,1.0,5,Leaves,28
+6,500,0.5,5,Flowers or flower buds,28
+7,516,0.75,7,Fruits,28
+1,390,0.1,8,Ripe fruits,28
+5,498,0.91,9,Colored leaves,28
+3,471,0.8333333333333334,10,Falling leaves,28
+2,467,1.0,2,Increasing leaf size,90
+4,483,1.0,2,Leaves,90
+6,500,0.875,7,Flowers or flower buds,90
+7,501,0.85,7,Open flowers,90
+9,516,1.0,8,Fruits,90
+1,390,0.75,9,Ripe fruits,90
+5,498,0.16666666666666666,9,Colored leaves,90
+8,504,0.75,9,Recent fruit or seed drop,90
+3,471,0.9,10,Falling leaves,90
+0,371,0.5,12,Breaking leaf buds,90
+0,371,0.75,5,Breaking leaf buds,1458
+2,483,1.0,6,Leaves,1458
+4,500,0.47619047619047616,6,Flowers or flower buds,1458
+5,501,0.3333333333333333,6,Open flowers,1458
+6,516,0.5714285714285714,7,Fruits,1458
+1,471,0.3333333333333333,10,Falling leaves,1458
+3,498,0.75,10,Colored leaves,1458
+0,371,0.3333333333333333,4,Breaking leaf buds,33
+2,467,0.5,5,Increasing leaf size,33
+4,483,1.0,5,Leaves,33
+6,500,0.5,5,Flowers or flower buds,33
+1,390,0.5,7,Ripe fruits,33
+7,516,0.5,7,Fruits,33
+5,498,0.70481220657277,10,Colored leaves,33
+3,471,0.5897435897435898,11,Falling leaves,33
+0,371,1.0,2,Breaking leaf buds,1591
+1,390,0.16666666666666666,4,Ripe fruits,1591
+6,500,0.3666666666666667,4,Flowers or flower buds,1591
+7,501,0.3,4,Open flowers,1591
+8,502,0.07142857142857142,4,Pollen release,1591
+10,516,0.3333333333333333,4,Fruits,1591
+2,467,0.9285714285714286,5,Increasing leaf size,1591
+9,504,0.25,5,Recent fruit or seed drop,1591
+4,483,1.0,6,Leaves,1591
+3,471,0.7142857142857143,10,Falling leaves,1591
+5,498,0.9285714285714286,10,Colored leaves,1591
+1,488,1.0,9,Leaves,809
+2,500,1.0,9,Flowers or flower buds,809
+3,501,1.0,9,Open flowers,809
+0,482,1.0,10,Initial growth,809
+0,371,0.5416666666666666,4,Breaking leaf buds,1159
+2,467,0.825,5,Increasing leaf size,1159
+6,500,0.125,5,Flowers or flower buds,1159
+7,501,0.3,5,Open flowers,1159
+4,483,1.0,6,Leaves,1159
+9,516,0.4833333333333333,7,Fruits,1159
+1,390,0.48367346938775513,10,Ripe fruits,1159
+8,504,0.5855572998430141,10,Recent fruit or seed drop,1159
+3,471,1.0,11,Falling leaves,1159
+5,498,1.0,11,Colored leaves,1159
+3,485,1.0,1,Young needles,48
+4,490,1.0,3,Pollen cones,48
+5,491,1.0,4,Recent cone or seed drop,48
+0,392,1.0,6,Unripe seed cones,48
+2,480,0.38571428571428573,6,Breaking needle buds,48
+6,495,0.1403628117913832,6,Open pollen cones,48
+1,393,1.0,9,Ripe seed cones,48
+0,371,0.3666666666666667,4,Breaking leaf buds,80
+2,467,0.8333333333333334,5,Increasing leaf size,80
+4,483,1.0,5,Leaves,80
+7,501,0.16666666666666666,5,Open flowers,80
+6,500,0.2,6,Flowers or flower buds,80
+9,516,1.0,7,Fruits,80
+1,390,0.15000000000000002,9,Ripe fruits,80
+5,498,1.0,9,Colored leaves,80
+3,471,1.0,10,Falling leaves,80
+8,504,0.3333333333333333,10,Recent fruit or seed drop,80
+0,371,0.75,4,Breaking leaf buds,1494
+5,500,0.3333333333333333,4,Flowers or flower buds,1494
+1,467,0.8333333333333333,5,Increasing leaf size,1494
+6,501,0.16666666666666666,5,Open flowers,1494
+7,502,0.08333333333333333,5,Pollen release,1494
+3,483,1.0,6,Leaves,1494
+2,471,1.0,10,Falling leaves,1494
+4,498,1.0,10,Colored leaves,1494
+1,482,0.8947368421052632,3,Initial growth,1637
+2,488,1.0,5,Leaves,1637
+3,500,1.0,7,Flowers or flower buds,1637
+4,501,1.0,8,Open flowers,1637
+0,390,1.0,9,Ripe fruits,1637
+6,516,1.0,9,Fruits,1637
+5,504,1.0,10,Recent fruit or seed drop,1637
+0,371,0.5,4,Breaking leaf buds,941
+1,467,0.8333333333333334,5,Increasing leaf size,941
+3,483,1.0,5,Leaves,941
+5,500,0.3333333333333333,5,Flowers or flower buds,941
+4,498,1.0,9,Colored leaves,941
+2,471,0.8333333333333334,10,Falling leaves,941
+0,482,0.2777777777777778,4,Initial growth,1016
+2,500,0.3472222222222222,4,Flowers or flower buds,1016
+3,501,0.3333333333333333,4,Open flowers,1016
+1,488,1.0,5,Leaves,1016
+4,516,0.25,5,Fruits,1016
+1,482,0.42857142857142855,4,Initial growth,826
+3,500,0.5,4,Flowers or flower buds,826
+4,501,0.42857142857142855,4,Open flowers,826
+2,488,1.0,5,Leaves,826
+6,516,1.0,6,Fruits,826
+0,390,0.5,9,Ripe fruits,826
+5,504,0.5,9,Recent fruit or seed drop,826
+1,489,1.0,5,Leaves,131
+2,492,0.9041666666666667,5,Initial growth,131
+4,494,0.0033333333333333335,7,Open flowers,131
+3,493,0.8,8,Flower heads,131
+5,502,0.5,9,Pollen release,131
+7,516,1.0,9,Fruits,131
+0,390,1.0,10,Ripe fruits,131
+6,504,1.0,10,Recent fruit or seed drop,131
+1,482,0.75,4,Initial growth,1202
+2,488,1.0,5,Leaves,1202
+3,500,0.5,6,Flowers or flower buds,1202
+4,501,0.5,6,Open flowers,1202
+6,516,0.9444444444444444,7,Fruits,1202
+0,390,0.5,8,Ripe fruits,1202
+5,504,0.6,8,Recent fruit or seed drop,1202
+0,482,0.6,5,Initial growth,9
+1,488,1.0,6,Leaves,9
+2,500,0.30000000000000004,6,Flowers or flower buds,9
+3,501,0.16666666666666666,6,Open flowers,9
+4,516,0.16666666666666666,8,Fruits,9
+1,482,0.5833333333333333,4,Initial growth,190
+2,488,1.0,5,Leaves,190
+3,500,1.0,6,Flowers or flower buds,190
+4,501,0.7307692307692308,6,Open flowers,190
+0,390,0.75,7,Ripe fruits,190
+6,516,0.875,7,Fruits,190
+5,504,0.6666666666666666,8,Recent fruit or seed drop,190
+1,492,1.0,4,Initial growth,811
+0,489,1.0,5,Leaves,811
+0,482,1.0,9,Initial growth,1028
+1,488,1.0,9,Leaves,1028
+2,500,1.0,9,Flowers or flower buds,1028
+3,501,1.0,9,Open flowers,1028
+3,500,1.0,5,Flowers or flower buds,313
+0,371,0.8,6,Breaking leaf buds,313
+2,484,0.5,6,Young leaves,313
+4,501,0.5,7,Open flowers,313
+6,516,1.0,8,Fruits,313
+1,390,1.0,9,Ripe fruits,313
+5,504,0.3333333333333333,9,Recent fruit or seed drop,313
+0,371,1.0,5,Breaking leaf buds,799
+2,467,1.0,5,Increasing leaf size,799
+4,483,1.0,5,Leaves,799
+6,500,1.0,6,Flowers or flower buds,799
+7,501,0.8,6,Open flowers,799
+1,390,1.0,8,Ripe fruits,799
+8,504,1.0,8,Recent fruit or seed drop,799
+9,516,1.0,8,Fruits,799
+5,498,1.0,9,Colored leaves,799
+3,471,1.0,10,Falling leaves,799
+1,482,0.5,4,Initial growth,1697
+2,488,1.0,5,Leaves,1697
+3,500,1.0,7,Flowers or flower buds,1697
+6,516,1.0,7,Fruits,1697
+4,501,0.42857142857142855,8,Open flowers,1697
+0,390,1.0,9,Ripe fruits,1697
+5,504,1.0,9,Recent fruit or seed drop,1697
+0,488,1.0,5,Leaves,862
+1,500,1.0,7,Flowers or flower buds,862
+2,501,0.4,7,Open flowers,862
+3,516,0.25,7,Fruits,862
+0,489,1.0,2,Leaves,1433
+1,492,0.7333333333333333,4,Initial growth,1433
+2,494,0.1488888888888889,10,Open flowers,1433
+1,482,1.0,5,Initial growth,714
+2,488,1.0,6,Leaves,714
+0,390,1.0,7,Ripe fruits,714
+3,500,1.0,7,Flowers or flower buds,714
+4,501,0.8333333333333333,7,Open flowers,714
+6,516,0.5,7,Fruits,714
+5,504,0.75,8,Recent fruit or seed drop,714
+2,488,1.0,2,Leaves,11
+1,482,0.18181818181818182,5,Initial growth,11
+3,500,0.775,6,Flowers or flower buds,11
+4,501,0.4,6,Open flowers,11
+5,516,1.0,7,Fruits,11
+0,390,0.3333333333333333,8,Ripe fruits,11
+0,371,0.4,5,Breaking leaf buds,101
+1,467,0.696969696969697,5,Increasing leaf size,101
+3,483,1.0,5,Leaves,101
+5,500,0.4083333333333333,5,Flowers or flower buds,101
+6,501,0.08333333333333334,5,Open flowers,101
+7,516,0.3333333333333333,8,Fruits,101
+2,471,0.7083333333333333,10,Falling leaves,101
+4,498,1.0,10,Colored leaves,101
+0,371,0.4,4,Breaking leaf buds,1452
+2,467,1.0,5,Increasing leaf size,1452
+4,483,1.0,5,Leaves,1452
+6,500,1.0,5,Flowers or flower buds,1452
+7,501,0.3,5,Open flowers,1452
+9,516,1.0,7,Fruits,1452
+5,498,1.0,9,Colored leaves,1452
+1,390,1.0,10,Ripe fruits,1452
+3,471,1.0,11,Falling leaves,1452
+8,504,0.8333333333333333,11,Recent fruit or seed drop,1452
+0,482,0.6666666666666666,5,Initial growth,195
+1,488,1.0,6,Leaves,195
+2,500,1.0,6,Flowers or flower buds,195
+3,501,1.0,7,Open flowers,195
+4,516,0.9,8,Fruits,195
+2,488,1.0,1,Leaves,162
+1,482,0.5,2,Initial growth,162
+3,500,1.0,4,Flowers or flower buds,162
+4,501,1.0,5,Open flowers,162
+0,390,1.0,6,Ripe fruits,162
+5,504,1.0,6,Recent fruit or seed drop,162
+6,516,1.0,6,Fruits,162
+6,500,1.0,1,Flowers or flower buds,1632
+9,516,1.0,1,Fruits,1632
+7,501,0.75,3,Open flowers,1632
+0,371,0.5416666666666666,4,Breaking leaf buds,1632
+2,467,0.7083333333333333,4,Increasing leaf size,1632
+4,483,1.0,5,Leaves,1632
+1,390,1.0,7,Ripe fruits,1632
+8,504,0.5,8,Recent fruit or seed drop,1632
+3,471,1.0,10,Falling leaves,1632
+5,498,1.0,10,Colored leaves,1632
+1,482,0.2777777777777778,5,Initial growth,1643
+2,488,1.0,5,Leaves,1643
+3,500,1.0,9,Flowers or flower buds,1643
+4,501,0.8875,9,Open flowers,1643
+0,390,0.8625,10,Ripe fruits,1643
+5,504,0.23928571428571427,10,Recent fruit or seed drop,1643
+6,516,0.8625,10,Fruits,1643
+0,488,1.0,4,Leaves,1694
+1,500,1.0,7,Flowers or flower buds,1694
+2,501,0.35,9,Open flowers,1694
+0,482,0.6,5,Initial growth,173
+1,488,1.0,6,Leaves,173
+2,500,0.45,6,Flowers or flower buds,173
+3,501,0.3333333333333333,6,Open flowers,173
+1,482,1.0,4,Initial growth,156
+2,488,1.0,4,Leaves,156
+3,500,1.0,7,Flowers or flower buds,156
+0,390,1.0,8,Ripe fruits,156
+4,501,1.0,8,Open flowers,156
+5,504,0.75,8,Recent fruit or seed drop,156
+6,516,1.0,9,Fruits,156
+0,371,0.6,4,Breaking leaf buds,64
+5,500,0.9166666666666666,4,Flowers or flower buds,64
+6,501,0.2,4,Open flowers,64
+1,467,0.7692307692307693,5,Increasing leaf size,64
+3,483,1.0,5,Leaves,64
+7,516,0.26666666666666666,6,Fruits,64
+4,498,1.0,9,Colored leaves,64
+2,471,1.0,10,Falling leaves,64
+2,488,1.0,3,Leaves,800
+1,482,0.75,4,Initial growth,800
+3,500,1.0,5,Flowers or flower buds,800
+4,501,1.0,5,Open flowers,800
+0,390,0.375,6,Ripe fruits,800
+5,504,0.375,6,Recent fruit or seed drop,800
+0,390,0.3,1,Ripe fruits,916
+1,482,1.0,4,Initial growth,916
+2,488,1.0,4,Leaves,916
+3,500,0.8,7,Flowers or flower buds,916
+4,501,0.5,8,Open flowers,916
+5,516,0.6,10,Fruits,916
+0,371,0.75,5,Breaking leaf buds,1682
+6,500,0.16666666666666666,5,Flowers or flower buds,1682
+2,467,0.625,6,Increasing leaf size,1682
+4,483,1.0,6,Leaves,1682
+7,501,0.045454545454545456,6,Open flowers,1682
+1,390,0.5238095238095238,8,Ripe fruits,1682
+9,516,0.6666666666666666,8,Fruits,1682
+3,471,0.7785714285714285,9,Falling leaves,1682
+5,498,0.9583333333333333,10,Colored leaves,1682
+8,504,0.375,10,Recent fruit or seed drop,1682
+2,488,1.0,1,Leaves,1727
+1,482,0.14285714285714285,4,Initial growth,1727
+3,500,0.5,5,Flowers or flower buds,1727
+4,501,0.4,6,Open flowers,1727
+6,516,1.0,6,Fruits,1727
+0,390,0.4,7,Ripe fruits,1727
+5,504,0.6,7,Recent fruit or seed drop,1727
+2,492,0.25277777777777777,5,Initial growth,133
+1,489,1.0,6,Leaves,133
+3,493,1.0,6,Flower heads,133
+4,502,0.3333333333333333,7,Pollen release,133
+0,390,1.0,8,Ripe fruits,133
+5,516,1.0,8,Fruits,133
+0,371,1.0,2,Breaking leaf buds,1206
+1,390,0.631578947368421,3,Ripe fruits,1206
+9,516,0.6666666666666666,3,Fruits,1206
+2,467,1.0,4,Increasing leaf size,1206
+4,483,1.0,4,Leaves,1206
+7,500,0.10526315789473684,4,Flowers or flower buds,1206
+5,484,1.0,5,Young leaves,1206
+6,498,0.7916666666666666,5,Colored leaves,1206
+8,501,0.058333333333333334,5,Open flowers,1206
+3,471,0.9083333333333333,11,Falling leaves,1206
+0,371,0.42857142857142855,4,Breaking leaf buds,29
+1,467,1.0,5,Increasing leaf size,29
+3,483,1.0,5,Leaves,29
+5,500,0.75,5,Flowers or flower buds,29
+6,501,0.2222222222222222,6,Open flowers,29
+7,516,0.75,7,Fruits,29
+4,498,1.0,9,Colored leaves,29
+2,471,0.9285714285714286,10,Falling leaves,29
+0,482,1.0,5,Initial growth,1025
+1,488,1.0,5,Leaves,1025
+0,482,0.5,6,Initial growth,1459
+1,488,1.0,6,Leaves,1459
+1,488,1.0,2,Leaves,1065
+0,482,1.0,4,Initial growth,1065
+2,500,0.625,5,Flowers or flower buds,1065
+3,501,0.5,5,Open flowers,1065
+0,371,0.4722222222222222,4,Breaking leaf buds,89
+2,467,0.821875,5,Increasing leaf size,89
+4,483,1.0,5,Leaves,89
+6,500,0.325,5,Flowers or flower buds,89
+7,501,0.1111111111111111,6,Open flowers,89
+1,390,1.0,9,Ripe fruits,89
+9,516,1.0,9,Fruits,89
+5,498,1.0,10,Colored leaves,89
+3,471,0.8571428571428571,11,Falling leaves,89
+8,504,0.5,11,Recent fruit or seed drop,89
+0,371,0.9117647058823529,5,Breaking leaf buds,201
+2,467,1.0,5,Increasing leaf size,201
+4,483,1.0,5,Leaves,201
+6,500,0.7115384615384616,6,Flowers or flower buds,201
+7,501,0.5961538461538461,6,Open flowers,201
+8,516,1.0,8,Fruits,201
+1,390,1.0,9,Ripe fruits,201
+3,471,1.0,10,Falling leaves,201
+5,498,0.9,10,Colored leaves,201
+1,482,1.0,5,Initial growth,978
+2,488,1.0,5,Leaves,978
+0,390,1.0,8,Ripe fruits,978
+4,501,1.0,8,Open flowers,978
+6,516,1.0,8,Fruits,978
+3,500,1.0,9,Flowers or flower buds,978
+5,504,1.0,9,Recent fruit or seed drop,978
+2,488,1.0,4,Leaves,189
+1,482,1.0,5,Initial growth,189
+3,500,1.0,5,Flowers or flower buds,189
+4,501,1.0,5,Open flowers,189
+5,504,1.0,6,Recent fruit or seed drop,189
+0,390,1.0,7,Ripe fruits,189
+6,516,1.0,7,Fruits,189
+1,482,1.0,4,Initial growth,178
+2,488,1.0,4,Leaves,178
+3,500,1.0,4,Flowers or flower buds,178
+4,501,1.0,4,Open flowers,178
+6,516,1.0,8,Fruits,178
+0,390,0.9,10,Ripe fruits,178
+5,504,0.5,10,Recent fruit or seed drop,178
+0,371,0.2,4,Breaking leaf buds,829
+2,467,0.3333333333333333,4,Increasing leaf size,829
+4,483,1.0,6,Leaves,829
+6,516,0.25,8,Fruits,829
+1,390,0.25,9,Ripe fruits,829
+3,471,0.9916666666666667,10,Falling leaves,829
+5,498,1.0,10,Colored leaves,829
+0,392,1.0,6,Unripe seed cones,1743
+1,495,0.275,7,Open pollen cones,1743
+3,373,0.6,4,Breaking leaf buds,36
+0,205,0.48333333333333334,5,Open flowers,36
+4,374,1.0,5,All leaf buds broken,36
+1,206,0.2,6,Full flowering,36
+2,207,0.8333333333333334,7,End of flowering,36
+1,482,0.125,5,Initial growth,199
+2,488,1.0,6,Leaves,199
+3,500,0.696969696969697,7,Flowers or flower buds,199
+4,501,0.5,7,Open flowers,199
+6,516,1.0,9,Fruits,199
+0,390,0.6538461538461539,10,Ripe fruits,199
+5,504,0.5,12,Recent fruit or seed drop,199
+0,371,1.0,3,Breaking leaf buds,1364
+5,500,0.5,3,Flowers or flower buds,1364
+6,501,0.25,3,Open flowers,1364
+1,467,1.0,5,Increasing leaf size,1364
+3,483,1.0,5,Leaves,1364
+7,516,0.4583333333333333,6,Fruits,1364
+2,471,0.75,9,Falling leaves,1364
+4,498,1.0,9,Colored leaves,1364
+0,371,0.375,4,Breaking leaf buds,303
+2,467,0.7333333333333334,5,Increasing leaf size,303
+4,483,1.0,5,Leaves,303
+6,501,0.07142857142857142,6,Open flowers,303
+3,471,0.43333333333333335,9,Falling leaves,303
+7,504,0.125,9,Recent fruit or seed drop,303
+8,516,0.75,9,Fruits,303
+1,390,0.25,10,Ripe fruits,303
+5,498,0.8125,10,Colored leaves,303
+2,492,0.5,3,Initial growth,140
+3,493,0.5,3,Flower heads,140
+4,494,0.5,3,Open flowers,140
+1,489,1.0,6,Leaves,140
+0,390,1.0,9,Ripe fruits,140
+6,516,1.0,9,Fruits,140
+5,504,0.5,10,Recent fruit or seed drop,140
+0,371,0.42105263157894735,4,Breaking leaf buds,1431
+5,500,0.2,4,Flowers or flower buds,1431
+1,467,0.5,5,Increasing leaf size,1431
+3,483,1.0,5,Leaves,1431
+6,516,0.3333333333333333,6,Fruits,1431
+4,498,1.0,8,Colored leaves,1431
+2,471,0.6666666666666666,10,Falling leaves,1431
+0,371,0.5,3,Breaking leaf buds,92
+4,483,1.0,4,Leaves,92
+2,467,0.6333333333333333,5,Increasing leaf size,92
+6,500,1.0,6,Flowers or flower buds,92
+7,501,1.0,6,Open flowers,92
+8,516,1.0,8,Fruits,92
+1,390,0.7777777777777778,10,Ripe fruits,92
+3,471,0.5,10,Falling leaves,92
+5,498,0.7083333333333333,11,Colored leaves,92
+2,488,1.0,5,Leaves,203
+1,482,1.0,7,Initial growth,203
+3,500,1.0,7,Flowers or flower buds,203
+4,501,1.0,7,Open flowers,203
+0,390,1.0,8,Ripe fruits,203
+5,504,1.0,8,Recent fruit or seed drop,203
+6,516,1.0,8,Fruits,203
+8,504,0.6666666666666666,1,Recent fruit or seed drop,897
+0,371,0.4375,5,Breaking leaf buds,897
+2,467,0.8712121212121212,6,Increasing leaf size,897
+4,483,1.0,6,Leaves,897
+6,500,0.41666666666666663,7,Flowers or flower buds,897
+7,501,0.29166666666666663,7,Open flowers,897
+9,516,1.0,9,Fruits,897
+5,498,0.75,10,Colored leaves,897
+3,471,0.6125,11,Falling leaves,897
+1,390,1.0,12,Ripe fruits,897
+1,482,1.0,5,Initial growth,144
+2,488,1.0,5,Leaves,144
+3,500,0.8333333333333334,6,Flowers or flower buds,144
+4,501,0.6166666666666667,7,Open flowers,144
+0,390,0.5,12,Ripe fruits,144
+5,516,0.5,12,Fruits,144
+0,371,0.6037037037037036,4,Breaking leaf buds,1499
+1,467,0.9833333333333334,5,Increasing leaf size,1499
+3,483,1.0,6,Leaves,1499
+5,501,0.37333333333333335,8,Open flowers,1499
+2,471,0.7979166666666666,9,Falling leaves,1499
+4,498,0.84375,9,Colored leaves,1499
+2,484,0.9,5,Young leaves,1055
+0,371,0.8333333333333334,6,Breaking leaf buds,1055
+3,500,0.625,6,Flowers or flower buds,1055
+4,501,0.5,6,Open flowers,1055
+6,516,1.0,7,Fruits,1055
+1,390,0.8888888888888888,9,Ripe fruits,1055
+5,504,0.8,11,Recent fruit or seed drop,1055
+0,482,0.35,4,Initial growth,841
+1,488,1.0,4,Leaves,841
+2,500,0.9,4,Flowers or flower buds,841
+3,501,0.9,4,Open flowers,841
+4,516,0.5,8,Fruits,841
+0,371,0.8666666666666667,4,Breaking leaf buds,1759
+1,467,0.9333333333333333,4,Increasing leaf size,1759
+2,483,1.0,4,Leaves,1759
+3,498,0.8,4,Colored leaves,1759
+0,482,0.5,9,Initial growth,146
+0,371,1.0,4,Breaking leaf buds,1003
+1,484,1.0,5,Young leaves,1003
+2,500,1.0,8,Flowers or flower buds,1003
+3,501,1.0,8,Open flowers,1003
+4,516,1.0,8,Fruits,1003
+0,390,0.7,8,Ripe fruits,1763
+3,500,0.6,8,Flowers or flower buds,1763
+4,501,0.6,8,Open flowers,1763
+6,516,0.9,8,Fruits,1763
+1,482,0.9090909090909091,9,Initial growth,1763
+2,488,0.9090909090909091,9,Leaves,1763
+5,504,0.20454545454545456,9,Recent fruit or seed drop,1763
+0,482,0.5,4,Initial growth,1175
+1,488,1.0,4,Leaves,1175
+2,500,0.75,4,Flowers or flower buds,1175
+3,501,0.6666666666666666,4,Open flowers,1175
+2,488,1.0,1,Leaves,1742
+1,482,0.42857142857142855,4,Initial growth,1742
+3,500,0.2,6,Flowers or flower buds,1742
+4,501,0.2,6,Open flowers,1742
+6,516,1.0,7,Fruits,1742
+0,390,0.25,8,Ripe fruits,1742
+5,504,0.3333333333333333,9,Recent fruit or seed drop,1742
+1,482,0.5446428571428572,5,Initial growth,912
+2,488,1.0,6,Leaves,912
+3,500,0.75,6,Flowers or flower buds,912
+4,501,0.325,8,Open flowers,912
+0,390,1.0,9,Ripe fruits,912
+6,516,1.0,9,Fruits,912
+5,504,1.0,10,Recent fruit or seed drop,912
+1,500,0.5454545454545454,5,Flowers or flower buds,294
+2,501,0.375,6,Open flowers,294
+4,516,1.0,8,Fruits,294
+0,390,1.0,10,Ripe fruits,294
+3,504,1.0,12,Recent fruit or seed drop,294
+0,482,0.3345588235294118,4,Initial growth,161
+2,500,0.26393188854489164,4,Flowers or flower buds,161
+3,501,0.11997736276174306,4,Open flowers,161
+1,488,0.8722826086956521,5,Leaves,161
+1,482,0.14285714285714285,4,Initial growth,1782
+4,501,0.5,4,Open flowers,1782
+2,488,1.0,5,Leaves,1782
+6,516,1.0,6,Fruits,1782
+0,390,0.5,8,Ripe fruits,1782
+5,504,1.0,9,Recent fruit or seed drop,1782
+3,500,1.0,10,Flowers or flower buds,1782
+0,482,0.36363636363636365,4,Initial growth,850
+1,488,1.0,4,Leaves,850
+2,500,0.5727272727272728,4,Flowers or flower buds,850
+3,501,0.55,4,Open flowers,850
+1,482,0.2857142857142857,4,Initial growth,1774
+2,488,1.0,5,Leaves,1774
+3,500,0.8333333333333333,5,Flowers or flower buds,1774
+4,501,0.75,5,Open flowers,1774
+0,390,0.6,7,Ripe fruits,1774
+5,504,0.8,7,Recent fruit or seed drop,1774
+6,516,0.6,7,Fruits,1774
+4,483,1.0,1,Leaves,804
+0,371,1.0,2,Breaking leaf buds,804
+2,467,1.0,3,Increasing leaf size,804
+6,500,1.0,9,Flowers or flower buds,804
+8,516,0.3333333333333333,10,Fruits,804
+1,390,0.625,11,Ripe fruits,804
+3,471,0.25,11,Falling leaves,804
+7,504,0.08333333333333333,11,Recent fruit or seed drop,804
+5,498,0.06666666666666667,12,Colored leaves,804
+0,371,0.375,4,Breaking leaf buds,976
+6,500,0.4,4,Flowers or flower buds,976
+7,501,0.16,4,Open flowers,976
+2,467,0.6666666666666666,5,Increasing leaf size,976
+4,483,1.0,5,Leaves,976
+9,516,0.209375,5,Fruits,976
+1,390,0.07692307692307693,6,Ripe fruits,976
+8,504,0.13333333333333333,6,Recent fruit or seed drop,976
+3,471,0.8,10,Falling leaves,976
+5,498,1.0,10,Colored leaves,976
+2,480,0.3333333333333333,5,Breaking needle buds,56
+3,485,0.4724310776942356,6,Young needles,56
+0,392,1.0,7,Unripe seed cones,56
+4,490,0.16666666666666666,7,Pollen cones,56
+1,393,0.3333333333333333,10,Ripe seed cones,56
+5,500,0.42857142857142855,4,Flowers or flower buds,1733
+6,501,0.42857142857142855,4,Open flowers,1733
+1,467,0.8333333333333334,5,Increasing leaf size,1733
+3,483,1.0,5,Leaves,1733
+8,516,0.8333333333333334,5,Fruits,1733
+0,390,0.2,6,Ripe fruits,1733
+7,504,0.4,6,Recent fruit or seed drop,1733
+4,498,1.0,9,Colored leaves,1733
+2,471,1.0,10,Falling leaves,1733
+0,371,0.5,3,Breaking leaf buds,1044
+1,467,0.75,3,Increasing leaf size,1044
+3,483,1.0,4,Leaves,1044
+5,500,0.6,7,Flowers or flower buds,1044
+6,501,0.4,7,Open flowers,1044
+7,502,0.4,7,Pollen release,1044
+8,516,0.4,7,Fruits,1044
+4,498,0.5,9,Colored leaves,1044
+2,471,0.5,11,Falling leaves,1044
+0,371,0.5,4,Breaking leaf buds,7
+6,500,0.8,4,Flowers or flower buds,7
+7,501,0.4166666666666667,4,Open flowers,7
+2,467,0.9333333333333333,5,Increasing leaf size,7
+4,483,1.0,5,Leaves,7
+9,516,1.0,7,Fruits,7
+1,390,0.75,10,Ripe fruits,7
+5,498,1.0,10,Colored leaves,7
+3,471,0.6666666666666666,11,Falling leaves,7
+8,504,0.045454545454545456,11,Recent fruit or seed drop,7
+0,392,0.6875,8,Unripe seed cones,44
+1,393,0.4,10,Ripe seed cones,44
+2,491,0.125,10,Recent cone or seed drop,44
+1,484,0.8888888888888888,5,Young leaves,879
+2,500,0.8571428571428571,6,Flowers or flower buds,879
+3,501,0.4444444444444444,7,Open flowers,879
+5,516,1.0,8,Fruits,879
+0,390,0.8888888888888888,9,Ripe fruits,879
+4,504,0.6666666666666666,10,Recent fruit or seed drop,879
+0,392,1.0,2,Unripe seed cones,53
+1,393,1.0,2,Ripe seed cones,53
+5,496,0.5,5,Emerging needles,53
+2,486,0.7083333333333333,6,Young needles,53
+3,490,0.625,6,Pollen cones,53
+4,495,0.25,6,Open pollen cones,53
+6,503,0.25,6,Pollen release,53
+2,488,1.0,1,Leaves,165
+1,482,1.0,5,Initial growth,165
+3,500,1.0,5,Flowers or flower buds,165
+4,501,0.75,5,Open flowers,165
+0,390,1.0,10,Ripe fruits,165
+5,504,0.5,10,Recent fruit or seed drop,165
+6,516,1.0,10,Fruits,165
+1,484,1.0,1,Young leaves,887
+0,371,0.9285714285714286,4,Breaking leaf buds,887
+2,500,1.0,8,Flowers or flower buds,887
+0,371,0.4,4,Breaking leaf buds,1781
+2,467,1.0,5,Increasing leaf size,1781
+6,500,0.8,5,Flowers or flower buds,1781
+4,483,1.0,6,Leaves,1781
+7,501,0.5,6,Open flowers,1781
+9,516,1.0,7,Fruits,1781
+1,390,1.0,9,Ripe fruits,1781
+3,471,0.5,9,Falling leaves,1781
+5,498,0.75,9,Colored leaves,1781
+8,504,1.0,9,Recent fruit or seed drop,1781
+0,371,1.0,4,Breaking leaf buds,1760
+1,467,1.0,5,Increasing leaf size,1760
+2,483,1.0,5,Leaves,1760
+3,500,0.4444444444444444,5,Flowers or flower buds,1760
+4,501,0.4444444444444444,5,Open flowers,1760
+5,516,1.0,6,Fruits,1760
+2,471,0.8333333333333334,2,Falling leaves,1363
+4,498,0.8333333333333334,2,Colored leaves,1363
+0,371,0.5,4,Breaking leaf buds,1363
+1,467,1.0,4,Increasing leaf size,1363
+3,483,1.0,4,Leaves,1363
+5,500,0.5,4,Flowers or flower buds,1363
+6,501,0.5,4,Open flowers,1363
+7,516,0.375,4,Fruits,1363
+1,482,1.0,4,Initial growth,1210
+2,488,1.0,5,Leaves,1210
+3,500,0.75,7,Flowers or flower buds,1210
+4,501,0.8333333333333333,7,Open flowers,1210
+5,504,0.5,8,Recent fruit or seed drop,1210
+0,390,0.375,9,Ripe fruits,1210
+6,516,0.375,9,Fruits,1210
+1,482,0.7142857142857143,4,Initial growth,1737
+2,488,1.0,5,Leaves,1737
+3,500,1.0,5,Flowers or flower buds,1737
+4,501,0.8333333333333334,5,Open flowers,1737
+0,390,0.2,6,Ripe fruits,1737
+5,504,0.2,6,Recent fruit or seed drop,1737
+6,516,0.2,6,Fruits,1737
+1,482,0.30952380952380953,4,Initial growth,304
+3,500,0.5,4,Flowers or flower buds,304
+4,501,0.5,4,Open flowers,304
+2,488,1.0,6,Leaves,304
+0,390,0.5,7,Ripe fruits,304
+5,504,0.5,7,Recent fruit or seed drop,304
+6,516,0.5,7,Fruits,304
+0,482,1.0,4,Initial growth,152
+1,488,0.5,4,Leaves,152
+0,482,1.0,1,Initial growth,1249
+2,500,0.5,4,Flowers or flower buds,1249
+3,501,0.5,4,Open flowers,1249
+1,488,1.0,5,Leaves,1249
+4,516,0.42857142857142855,5,Fruits,1249
+1,488,1.0,6,Leaves,302
+2,500,1.0,7,Flowers or flower buds,302
+3,501,0.6,7,Open flowers,302
+5,516,1.0,8,Fruits,302
+0,390,1.0,10,Ripe fruits,302
+4,504,1.0,10,Recent fruit or seed drop,302
+2,488,1.0,1,Leaves,1453
+1,482,0.017699115044247787,5,Initial growth,1453
+3,500,1.0,8,Flowers or flower buds,1453
+0,390,0.4,9,Ripe fruits,1453
+5,516,0.2,9,Fruits,1453
+4,501,0.4583333333333333,11,Open flowers,1453
+0,371,0.6076923076923078,4,Breaking leaf buds,12
+6,500,0.75,4,Flowers or flower buds,12
+7,501,0.31666666666666665,4,Open flowers,12
+2,467,0.725,5,Increasing leaf size,12
+4,483,1.0,5,Leaves,12
+8,516,1.0,7,Fruits,12
+1,390,0.5,9,Ripe fruits,12
+5,498,1.0,9,Colored leaves,12
+3,471,0.8413461538461539,10,Falling leaves,12
+0,371,0.55,5,Breaking leaf buds,73
+1,467,0.75,5,Increasing leaf size,73
+3,483,1.0,5,Leaves,73
+5,500,0.788888888888889,5,Flowers or flower buds,73
+6,501,0.775,5,Open flowers,73
+4,498,1.0,10,Colored leaves,73
+2,471,1.0,11,Falling leaves,73
+0,371,1.0,4,Breaking leaf buds,1066
+1,467,1.0,4,Increasing leaf size,1066
+2,483,1.0,4,Leaves,1066
+1,482,1.0,3,Initial growth,1209
+2,488,1.0,5,Leaves,1209
+3,500,0.7,5,Flowers or flower buds,1209
+4,501,0.5,6,Open flowers,1209
+5,504,1.0,6,Recent fruit or seed drop,1209
+6,516,1.0,7,Fruits,1209
+0,390,1.0,11,Ripe fruits,1209
+2,467,0.42857142857142855,4,Increasing leaf size,1367
+6,500,0.5714285714285714,4,Flowers or flower buds,1367
+7,501,0.5714285714285714,4,Open flowers,1367
+0,371,1.0,5,Breaking leaf buds,1367
+4,483,1.0,5,Leaves,1367
+9,516,1.0,5,Fruits,1367
+1,390,1.0,7,Ripe fruits,1367
+8,504,0.8,8,Recent fruit or seed drop,1367
+5,498,1.0,9,Colored leaves,1367
+3,471,1.0,10,Falling leaves,1367
+1,482,1.0,5,Initial growth,803
+2,488,1.0,5,Leaves,803
+3,500,1.0,6,Flowers or flower buds,803
+4,501,1.0,6,Open flowers,803
+6,516,1.0,6,Fruits,803
+0,390,1.0,8,Ripe fruits,803
+5,504,1.0,11,Recent fruit or seed drop,803
+1,482,1.0,3,Initial growth,1757
+2,488,1.0,4,Leaves,1757
+0,390,1.0,6,Ripe fruits,1757
+3,500,1.0,6,Flowers or flower buds,1757
+4,501,1.0,6,Open flowers,1757
+5,516,1.0,6,Fruits,1757
+0,390,1.0,9,Ripe fruits,1767
+1,482,1.0,9,Initial growth,1767
+2,488,1.0,9,Leaves,1767
+3,500,1.0,9,Flowers or flower buds,1767
+4,501,0.75,9,Open flowers,1767
+5,504,1.0,9,Recent fruit or seed drop,1767
+6,516,1.0,9,Fruits,1767
+0,488,1.0,12,Leaves,807
+0,488,1.0,4,Leaves,308
+1,500,0.8,5,Flowers or flower buds,308
+2,501,0.6,5,Open flowers,308
+2,500,1.0,1,Flowers or flower buds,1750
+0,482,0.14285714285714285,4,Initial growth,1750
+1,488,1.0,4,Leaves,1750
+3,501,0.5,5,Open flowers,1750
+5,516,1.0,6,Fruits,1750
+4,504,0.2,7,Recent fruit or seed drop,1750
+2,467,1.0,3,Increasing leaf size,996
+4,483,1.0,3,Leaves,996
+6,500,1.0,3,Flowers or flower buds,996
+7,501,1.0,3,Open flowers,996
+0,371,0.7142857142857143,4,Breaking leaf buds,996
+5,498,1.0,5,Colored leaves,996
+9,516,1.0,6,Fruits,996
+1,390,0.6,7,Ripe fruits,996
+8,504,0.3333333333333333,7,Recent fruit or seed drop,996
+3,471,0.75,10,Falling leaves,996
+2,488,1.0,2,Leaves,1653
+1,482,0.6666666666666666,4,Initial growth,1653
+3,500,1.0,5,Flowers or flower buds,1653
+4,501,0.8333333333333334,6,Open flowers,1653
+0,390,1.0,8,Ripe fruits,1653
+5,504,0.75,8,Recent fruit or seed drop,1653
+6,516,1.0,8,Fruits,1653
+4,483,1.0,2,Leaves,1744
+2,467,1.0,3,Increasing leaf size,1744
+0,371,0.5,9,Breaking leaf buds,1744
+3,471,0.5,9,Falling leaves,1744
+5,498,0.5,9,Colored leaves,1744
+6,500,1.0,9,Flowers or flower buds,1744
+7,501,0.875,9,Open flowers,1744
+1,390,1.0,10,Ripe fruits,1744
+8,516,1.0,10,Fruits,1744
+0,482,0.16666666666666666,6,Initial growth,969
+1,488,1.0,6,Leaves,969
+2,500,1.0,6,Flowers or flower buds,969
+3,501,0.75,7,Open flowers,969
+4,502,0.25,7,Pollen release,969
+6,500,1.0,4,Flowers or flower buds,62
+7,501,0.3333333333333333,4,Open flowers,62
+8,502,0.3333333333333333,4,Pollen release,62
+0,371,0.85,5,Breaking leaf buds,62
+2,467,1.0,6,Increasing leaf size,62
+4,483,1.0,6,Leaves,62
+9,516,1.0,6,Fruits,62
+1,390,0.5,8,Ripe fruits,62
+3,471,0.6666666666666666,10,Falling leaves,62
+5,498,1.0,10,Colored leaves,62
+8,504,0.00909090909090909,2,Recent fruit or seed drop,1448
+0,371,0.5454545454545454,4,Breaking leaf buds,1448
+2,467,0.8333333333333333,5,Increasing leaf size,1448
+4,483,1.0,5,Leaves,1448
+6,500,0.8333333333333334,6,Flowers or flower buds,1448
+7,501,0.2,6,Open flowers,1448
+9,516,1.0,7,Fruits,1448
+1,390,1.0,9,Ripe fruits,1448
+3,471,0.5,10,Falling leaves,1448
+5,498,1.0,10,Colored leaves,1448
+0,371,1.0,1,Breaking leaf buds,1490
+2,484,1.0,1,Young leaves,1490
+4,501,0.375,6,Open flowers,1490
+3,500,0.75,8,Flowers or flower buds,1490
+6,516,0.5,8,Fruits,1490
+1,390,0.5,12,Ripe fruits,1490
+5,504,0.5,12,Recent fruit or seed drop,1490
+0,371,1.0,6,Breaking leaf buds,319
+2,467,1.0,6,Increasing leaf size,319
+4,483,1.0,6,Leaves,319
+6,500,0.5,6,Flowers or flower buds,319
+7,501,0.5,6,Open flowers,319
+1,390,1.0,9,Ripe fruits,319
+5,498,1.0,9,Colored leaves,319
+8,516,1.0,9,Fruits,319
+3,471,1.0,10,Falling leaves,319
+0,371,0.4222222222222222,5,Breaking leaf buds,75
+5,500,0.25277777777777777,5,Flowers or flower buds,75
+1,467,0.5217391304347826,6,Increasing leaf size,75
+3,483,1.0,6,Leaves,75
+4,498,0.5,9,Colored leaves,75
+2,471,0.6666666666666666,10,Falling leaves,75
+1,482,0.2857142857142857,4,Initial growth,1061
+2,488,1.0,5,Leaves,1061
+3,500,0.4,7,Flowers or flower buds,1061
+4,501,0.5,8,Open flowers,1061
+0,390,0.5,9,Ripe fruits,1061
+5,504,0.5,9,Recent fruit or seed drop,1061
+6,516,0.5,9,Fruits,1061
+0,371,1.0,4,Breaking leaf buds,1608
+2,467,0.7333333333333334,5,Increasing leaf size,1608
+4,483,1.0,5,Leaves,1608
+6,500,0.6,6,Flowers or flower buds,1608
+8,516,1.0,7,Fruits,1608
+1,390,1.0,10,Ripe fruits,1608
+3,471,1.0,10,Falling leaves,1608
+5,498,1.0,10,Colored leaves,1608
+7,504,1.0,10,Recent fruit or seed drop,1608
+1,482,1.0,3,Initial growth,1041
+2,488,1.0,5,Leaves,1041
+3,500,1.0,5,Flowers or flower buds,1041
+4,501,1.0,5,Open flowers,1041
+5,504,1.0,5,Recent fruit or seed drop,1041
+0,390,1.0,6,Ripe fruits,1041
+6,516,1.0,6,Fruits,1041
+0,482,1.0,5,Initial growth,814
+1,488,1.0,5,Leaves,814
+2,500,1.0,5,Flowers or flower buds,814
+3,501,1.0,5,Open flowers,814
+4,516,1.0,8,Fruits,814
+6,500,1.0,2,Flowers or flower buds,94
+0,371,0.5,3,Breaking leaf buds,94
+2,467,0.625,5,Increasing leaf size,94
+4,483,1.0,5,Leaves,94
+1,390,1.0,6,Ripe fruits,94
+7,516,1.0,6,Fruits,94
+3,471,0.5,10,Falling leaves,94
+5,498,1.0,11,Colored leaves,94
+3,483,1.0,1,Leaves,1002
+0,371,1.0,4,Breaking leaf buds,1002
+1,467,1.0,5,Increasing leaf size,1002
+4,484,1.0,5,Young leaves,1002
+5,498,1.0,5,Colored leaves,1002
+6,500,1.0,5,Flowers or flower buds,1002
+7,501,0.5,5,Open flowers,1002
+8,516,0.5,5,Fruits,1002
+2,471,1.0,11,Falling leaves,1002
+0,371,0.5,5,Breaking leaf buds,95
+6,500,1.0,5,Flowers or flower buds,95
+2,467,0.6666666666666666,6,Increasing leaf size,95
+4,483,1.0,6,Leaves,95
+7,501,0.3333333333333333,6,Open flowers,95
+8,516,1.0,7,Fruits,95
+1,390,0.4,9,Ripe fruits,95
+5,498,1.0,9,Colored leaves,95
+3,471,0.16666666666666666,11,Falling leaves,95
+0,371,0.6916666666666667,4,Breaking leaf buds,885
+5,500,0.8,5,Flowers or flower buds,885
+1,467,0.9375,6,Increasing leaf size,885
+3,483,1.0,6,Leaves,885
+2,471,0.9,11,Falling leaves,885
+4,498,0.9166666666666667,11,Colored leaves,885
+0,371,0.22180451127819548,4,Breaking leaf buds,949
+2,467,0.8,5,Increasing leaf size,949
+4,483,1.0,5,Leaves,949
+6,500,0.03571428571428571,5,Flowers or flower buds,949
+7,501,0.03571428571428571,5,Open flowers,949
+8,516,1.0,7,Fruits,949
+1,390,0.5,10,Ripe fruits,949
+3,471,0.6,10,Falling leaves,949
+5,498,1.0,10,Colored leaves,949
+0,483,1.0,8,Leaves,1716
+0,482,1.0,5,Initial growth,928
+1,488,1.0,5,Leaves,928
+2,500,1.0,6,Flowers or flower buds,928
+3,501,0.5,6,Open flowers,928
+4,516,1.0,8,Fruits,928
+1,489,1.0,5,Leaves,1695
+2,492,0.9833333333333334,5,Initial growth,1695
+3,493,0.9166666666666667,5,Flower heads,1695
+4,494,0.4166666666666667,5,Open flowers,1695
+5,502,0.5,5,Pollen release,1695
+0,390,1.0,6,Ripe fruits,1695
+7,516,1.0,6,Fruits,1695
+6,504,0.7,10,Recent fruit or seed drop,1695
+0,482,1.0,4,Initial growth,1434
+1,488,1.0,4,Leaves,1434
+1,482,0.2,5,Initial growth,150
+3,500,0.55,5,Flowers or flower buds,150
+2,488,1.0,6,Leaves,150
+4,516,0.5,8,Fruits,150
+0,390,0.1267361111111111,9,Ripe fruits,150
+0,371,0.33974358974358976,3,Breaking leaf buds,1438
+4,483,1.0,4,Leaves,1438
+6,500,0.5,4,Flowers or flower buds,1438
+2,467,0.9583333333333334,5,Increasing leaf size,1438
+7,501,0.5,5,Open flowers,1438
+9,516,1.0,9,Fruits,1438
+1,390,1.0,10,Ripe fruits,1438
+3,471,0.75,11,Falling leaves,1438
+5,498,0.825,11,Colored leaves,1438
+8,504,0.725,11,Recent fruit or seed drop,1438
+4,483,1.0,1,Leaves,227
+5,498,1.0,1,Colored leaves,227
+0,371,0.0625,4,Breaking leaf buds,227
+6,500,0.8888888888888888,4,Flowers or flower buds,227
+7,501,0.5347222222222222,4,Open flowers,227
+1,390,0.5,7,Ripe fruits,227
+2,467,1.0,7,Increasing leaf size,227
+8,504,0.5,7,Recent fruit or seed drop,227
+9,516,0.5,7,Fruits,227
+3,471,1.0,11,Falling leaves,227
+5,484,1.0,4,Young leaves,1247
+2,467,1.0,5,Increasing leaf size,1247
+4,483,1.0,5,Leaves,1247
+0,371,1.0,7,Breaking leaf buds,1247
+7,500,1.0,7,Flowers or flower buds,1247
+9,516,1.0,8,Fruits,1247
+3,471,0.9,10,Falling leaves,1247
+1,390,1.0,11,Ripe fruits,1247
+6,498,1.0,11,Colored leaves,1247
+8,501,1.0,11,Open flowers,1247
+0,482,0.25,4,Initial growth,184
+1,488,1.0,5,Leaves,184
+2,500,1.0,8,Flowers or flower buds,184
+3,501,1.0,8,Open flowers,184
+1,482,0.43478260869565216,5,Initial growth,166
+2,488,1.0,5,Leaves,166
+3,500,1.0,8,Flowers or flower buds,166
+4,501,1.0,8,Open flowers,166
+0,390,0.38461538461538464,9,Ripe fruits,166
+5,504,0.46153846153846156,9,Recent fruit or seed drop,166
+6,516,0.75,9,Fruits,166
+1,492,0.7666666666666667,3,Initial growth,971
+2,493,1.0,4,Flower heads,971
+4,502,1.0,4,Pollen release,971
+0,489,1.0,5,Leaves,971
+3,494,0.3333333333333333,6,Open flowers,971
+0,371,0.41666666666666663,5,Breaking leaf buds,1741
+2,467,0.8333333333333333,6,Increasing leaf size,1741
+4,483,1.0,6,Leaves,1741
+7,516,0.5,8,Fruits,1741
+1,390,0.5,10,Ripe fruits,1741
+3,471,0.5,10,Falling leaves,1741
+5,498,0.9,10,Colored leaves,1741
+6,504,0.1,10,Recent fruit or seed drop,1741
+0,371,0.4,4,Breaking leaf buds,1179
+2,467,1.0,5,Increasing leaf size,1179
+4,483,1.0,5,Leaves,1179
+6,500,0.6,5,Flowers or flower buds,1179
+7,504,0.25,7,Recent fruit or seed drop,1179
+8,516,0.75,7,Fruits,1179
+1,390,0.375,9,Ripe fruits,1179
+3,471,0.6666666666666666,10,Falling leaves,1179
+5,498,1.0,10,Colored leaves,1179
+3,500,0.5,5,Flowers or flower buds,104
+4,501,0.16666666666666666,5,Open flowers,104
+0,371,1.0,6,Breaking leaf buds,104
+2,484,1.0,6,Young leaves,104
+6,516,1.0,8,Fruits,104
+1,390,0.5,9,Ripe fruits,104
+5,504,0.041666666666666664,9,Recent fruit or seed drop,104
+1,482,1.0,1,Initial growth,1606
+2,488,1.0,1,Leaves,1606
+3,500,1.0,6,Flowers or flower buds,1606
+4,501,1.0,6,Open flowers,1606
+0,390,1.0,8,Ripe fruits,1606
+5,504,1.0,8,Recent fruit or seed drop,1606
+6,516,1.0,8,Fruits,1606
+0,390,1.0,9,Ripe fruits,1731
+1,488,1.0,9,Leaves,1731
+2,516,1.0,9,Fruits,1731
+2,500,0.6666666666666666,4,Flowers or flower buds,1052
+3,501,0.8333333333333333,4,Open flowers,1052
+1,488,1.0,5,Leaves,1052
+4,516,1.0,6,Fruits,1052
+0,390,1.0,8,Ripe fruits,1052
+0,482,1.0,5,Initial growth,745
+1,488,1.0,5,Leaves,745
+2,500,0.6666666666666666,5,Flowers or flower buds,745
+3,501,0.3333333333333333,5,Open flowers,745
+0,482,0.75,4,Initial growth,163
+1,488,0.75,4,Leaves,163
+2,500,1.0,5,Flowers or flower buds,163
+3,501,1.0,5,Open flowers,163
+4,516,0.5,5,Fruits,163
+0,371,0.3333333333333333,5,Breaking leaf buds,324
+3,500,0.8571428571428571,5,Flowers or flower buds,324
+4,501,0.7857142857142857,5,Open flowers,324
+1,390,1.0,6,Ripe fruits,324
+2,484,0.4,6,Young leaves,324
+5,504,0.8,6,Recent fruit or seed drop,324
+6,516,1.0,7,Fruits,324
+0,371,0.16111111111111112,5,Breaking leaf buds,329
+2,484,0.6242424242424243,6,Young leaves,329
+3,500,0.5,6,Flowers or flower buds,329
+4,501,0.3333333333333333,7,Open flowers,329
+5,516,1.0,8,Fruits,329
+1,390,1.0,9,Ripe fruits,329
+0,489,1.0,5,Leaves,1641
+1,492,1.0,5,Initial growth,1641
+2,494,0.7133333333333334,9,Open flowers,1641
+0,371,0.5,5,Breaking leaf buds,1775
+2,467,0.5,5,Increasing leaf size,1775
+4,483,1.0,6,Leaves,1775
+6,500,1.0,6,Flowers or flower buds,1775
+7,501,0.4,6,Open flowers,1775
+8,502,0.3333333333333333,7,Pollen release,1775
+10,516,1.0,7,Fruits,1775
+1,390,1.0,8,Ripe fruits,1775
+3,471,1.0,10,Falling leaves,1775
+5,498,1.0,10,Colored leaves,1775
+9,504,1.0,10,Recent fruit or seed drop,1775
+1,488,1.0,1,Leaves,1611
+2,500,1.0,4,Flowers or flower buds,1611
+3,501,0.8541666666666667,4,Open flowers,1611
+0,482,0.6066666666666667,12,Initial growth,1611
+0,371,0.9166666666666666,5,Breaking leaf buds,1503
+6,500,0.6666666666666666,5,Flowers or flower buds,1503
+7,501,0.4166666666666667,5,Open flowers,1503
+2,467,0.3333333333333333,6,Increasing leaf size,1503
+4,483,1.0,6,Leaves,1503
+8,516,0.5,6,Fruits,1503
+1,390,0.047619047619047616,7,Ripe fruits,1503
+3,471,0.6333333333333333,10,Falling leaves,1503
+5,498,0.8333333333333333,10,Colored leaves,1503
+0,371,1.0,4,Breaking leaf buds,1214
+1,467,1.0,5,Increasing leaf size,1214
+2,483,1.0,5,Leaves,1214
+3,498,1.0,5,Colored leaves,1214
+4,500,1.0,5,Flowers or flower buds,1214
+5,501,1.0,5,Open flowers,1214
+0,371,0.5261538461538462,4,Breaking leaf buds,1509
+2,467,0.7391304347826086,5,Increasing leaf size,1509
+4,483,1.0,5,Leaves,1509
+6,500,0.625,5,Flowers or flower buds,1509
+7,501,0.15789473684210525,5,Open flowers,1509
+8,516,0.75,7,Fruits,1509
+1,390,0.109375,9,Ripe fruits,1509
+3,471,0.1388888888888889,10,Falling leaves,1509
+5,498,0.19761273209549074,10,Colored leaves,1509
+0,482,0.3333333333333333,4,Initial growth,26
+1,488,1.0,5,Leaves,26
+2,500,0.5833333333333334,5,Flowers or flower buds,26
+3,501,0.0625,5,Open flowers,26
+4,516,0.3333333333333333,6,Fruits,26
+0,482,0.5,5,Initial growth,842
+1,488,1.0,6,Leaves,842
+2,500,0.6666666666666666,6,Flowers or flower buds,842
+3,501,0.6666666666666666,6,Open flowers,842
+0,371,0.4444444444444444,3,Breaking leaf buds,1177
+2,467,0.5,4,Increasing leaf size,1177
+4,483,1.0,5,Leaves,1177
+7,516,0.25,7,Fruits,1177
+1,390,0.25,8,Ripe fruits,1177
+6,504,0.25,8,Recent fruit or seed drop,1177
+5,498,1.0,10,Colored leaves,1177
+3,471,0.7,11,Falling leaves,1177
+0,371,0.5,2,Breaking leaf buds,1471
+2,467,0.712962962962963,4,Increasing leaf size,1471
+5,498,0.5,5,Colored leaves,1471
+6,500,0.5,5,Flowers or flower buds,1471
+7,501,0.6666666666666666,5,Open flowers,1471
+4,483,1.0,6,Leaves,1471
+8,516,1.0,6,Fruits,1471
+1,390,1.0,7,Ripe fruits,1471
+3,471,0.25,11,Falling leaves,1471
+0,371,0.5,5,Breaking leaf buds,904
+2,484,0.875,5,Young leaves,904
+3,500,1.0,6,Flowers or flower buds,904
+4,501,0.7083333333333333,6,Open flowers,904
+5,516,1.0,8,Fruits,904
+1,390,0.25,11,Ripe fruits,904
+1,390,1.0,2,Ripe fruits,1199
+8,504,1.0,2,Recent fruit or seed drop,1199
+9,516,1.0,2,Fruits,1199
+0,371,0.4444444444444444,5,Breaking leaf buds,1199
+2,467,1.0,5,Increasing leaf size,1199
+4,483,1.0,6,Leaves,1199
+6,500,0.27906976744186046,6,Flowers or flower buds,1199
+7,501,0.13953488372093023,6,Open flowers,1199
+5,498,1.0,9,Colored leaves,1199
+3,471,0.55,10,Falling leaves,1199
+0,371,0.676056338028169,4,Breaking leaf buds,1248
+2,483,1.0,4,Leaves,1248
+1,467,1.0,12,Increasing leaf size,1248
+3,498,1.0,12,Colored leaves,1248
+1,492,0.35555555555555557,4,Initial growth,1357
+0,489,1.0,5,Leaves,1357
+2,494,0.0625,9,Open flowers,1357
+1,482,1.0,5,Initial growth,1034
+2,488,1.0,5,Leaves,1034
+3,500,1.0,9,Flowers or flower buds,1034
+4,501,1.0,9,Open flowers,1034
+6,516,1.0,10,Fruits,1034
+0,390,1.0,11,Ripe fruits,1034
+5,504,1.0,12,Recent fruit or seed drop,1034
+0,467,1.0,6,Increasing leaf size,827
+1,500,1.0,6,Flowers or flower buds,827
+2,501,1.0,6,Open flowers,827
+1,482,0.7142857142857143,5,Initial growth,1063
+2,488,1.0,7,Leaves,1063
+3,500,1.0,8,Flowers or flower buds,1063
+4,501,1.0,8,Open flowers,1063
+0,390,1.0,10,Ripe fruits,1063
+5,504,1.0,10,Recent fruit or seed drop,1063
+6,516,1.0,10,Fruits,1063
+1,482,1.0,6,Initial growth,1726
+2,488,1.0,6,Leaves,1726
+3,500,1.0,8,Flowers or flower buds,1726
+4,501,1.0,8,Open flowers,1726
+0,390,0.75,9,Ripe fruits,1726
+5,504,0.75,9,Recent fruit or seed drop,1726
+6,516,0.75,9,Fruits,1726
+0,371,0.9821428571428572,6,Breaking leaf buds,1475
+3,483,1.0,6,Leaves,1475
+5,500,0.2523809523809524,6,Flowers or flower buds,1475
+6,516,1.0,8,Fruits,1475
+2,471,0.6666666666666666,10,Falling leaves,1475
+4,498,1.0,10,Colored leaves,1475
+1,390,1.0,12,Ripe fruits,1475
+0,371,0.3333333333333333,4,Breaking leaf buds,102
+2,467,0.7573529411764706,5,Increasing leaf size,102
+4,483,1.0,5,Leaves,102
+6,500,0.35416666666666663,5,Flowers or flower buds,102
+7,501,0.19375,5,Open flowers,102
+9,516,0.53125,8,Fruits,102
+1,390,0.2,9,Ripe fruits,102
+8,504,0.3333333333333333,9,Recent fruit or seed drop,102
+5,498,1.0,10,Colored leaves,102
+3,471,0.6770833333333333,11,Falling leaves,102
+0,371,0.525,4,Breaking leaf buds,915
+5,500,0.4897959183673469,4,Flowers or flower buds,915
+6,501,0.2,4,Open flowers,915
+1,467,0.849002849002849,5,Increasing leaf size,915
+3,483,1.0,5,Leaves,915
+7,516,0.125,8,Fruits,915
+2,471,0.6011904761904762,10,Falling leaves,915
+4,498,1.0,10,Colored leaves,915
+0,371,0.3333333333333333,4,Breaking leaf buds,779
+1,467,0.8,5,Increasing leaf size,779
+3,483,1.0,5,Leaves,779
+5,500,0.4,5,Flowers or flower buds,779
+6,501,0.3333333333333333,5,Open flowers,779
+7,504,0.1,6,Recent fruit or seed drop,779
+8,516,0.625,6,Fruits,779
+4,498,0.875,10,Colored leaves,779
+2,471,0.75,11,Falling leaves,779
+0,482,1.0,4,Initial growth,890
+1,488,1.0,4,Leaves,890
+2,500,1.0,7,Flowers or flower buds,890
+3,501,1.0,7,Open flowers,890
+0,488,1.0,6,Leaves,892
+1,500,1.0,6,Flowers or flower buds,892
+2,501,1.0,7,Open flowers,892
+1,488,1.0,5,Leaves,908
+2,500,1.0,5,Flowers or flower buds,908
+3,501,1.0,7,Open flowers,908
+4,504,1.0,8,Recent fruit or seed drop,908
+5,516,1.0,8,Fruits,908
+0,390,1.0,9,Ripe fruits,908
+0,482,1.0,3,Initial growth,310
+1,488,1.0,4,Leaves,310
+2,500,1.0,4,Flowers or flower buds,310
+3,501,1.0,4,Open flowers,310
+0,482,0.1111111111111111,5,Initial growth,194
+1,488,1.0,6,Leaves,194
+2,500,0.20833333333333331,6,Flowers or flower buds,194
+3,501,0.20833333333333331,6,Open flowers,194
+4,516,0.625,7,Fruits,194
+0,492,1.0,4,Initial growth,1021
+1,497,0.3333333333333333,5,Leaves,1021
+0,371,0.36363636363636365,4,Breaking leaf buds,99
+1,467,0.6333333333333333,5,Increasing leaf size,99
+5,500,0.5357142857142857,5,Flowers or flower buds,99
+6,501,0.364766081871345,5,Open flowers,99
+3,483,1.0,6,Leaves,99
+4,498,1.0,9,Colored leaves,99
+2,471,0.7272727272727273,10,Falling leaves,99
+0,371,0.8333333333333334,4,Breaking leaf buds,83
+2,467,1.0,5,Increasing leaf size,83
+4,483,1.0,5,Leaves,83
+6,500,0.6,5,Flowers or flower buds,83
+7,501,0.2,5,Open flowers,83
+3,471,1.0,8,Falling leaves,83
+5,498,1.0,8,Colored leaves,83
+9,516,1.0,8,Fruits,83
+1,390,0.6666666666666666,9,Ripe fruits,83
+8,504,0.6666666666666666,9,Recent fruit or seed drop,83
+6,500,0.4117647058823529,2,Flowers or flower buds,88
+0,371,0.64375,4,Breaking leaf buds,88
+7,501,0.15833333333333333,4,Open flowers,88
+4,483,1.0,5,Leaves,88
+2,467,0.5,6,Increasing leaf size,88
+8,516,1.0,7,Fruits,88
+1,390,0.5,8,Ripe fruits,88
+3,471,1.0,9,Falling leaves,88
+5,498,1.0,11,Colored leaves,88
+3,497,1.0,1,Leaves,821
+0,492,0.5333333333333333,4,Initial growth,821
+1,493,0.6666666666666666,5,Flower heads,821
+2,494,0.6666666666666666,6,Open flowers,821
+0,371,0.5384615384615384,4,Breaking leaf buds,67
+1,467,0.7278911564625851,5,Increasing leaf size,67
+3,483,1.0,5,Leaves,67
+5,500,0.23529411764705882,5,Flowers or flower buds,67
+6,501,0.14705882352941177,5,Open flowers,67
+7,504,0.2532051282051282,9,Recent fruit or seed drop,67
+8,516,0.39632936507936506,9,Fruits,67
+2,471,0.3666666666666667,10,Falling leaves,67
+4,498,0.8545454545454545,10,Colored leaves,67
+0,371,0.125,4,Breaking leaf buds,1189
+1,467,0.9583333333333333,5,Increasing leaf size,1189
+5,500,0.5972222222222222,5,Flowers or flower buds,1189
+6,501,0.3333333333333333,5,Open flowers,1189
+3,483,1.0,6,Leaves,1189
+7,516,0.8,7,Fruits,1189
+4,498,1.0,8,Colored leaves,1189
+2,471,1.0,9,Falling leaves,1189
+0,371,0.44,4,Breaking leaf buds,989
+2,467,0.95,5,Increasing leaf size,989
+4,483,1.0,5,Leaves,989
+6,500,0.05714285714285714,5,Flowers or flower buds,989
+7,501,0.1,5,Open flowers,989
+9,516,1.0,7,Fruits,989
+1,390,0.5,10,Ripe fruits,989
+8,504,0.625,10,Recent fruit or seed drop,989
+3,471,1.0,11,Falling leaves,989
+5,498,1.0,11,Colored leaves,989
+4,483,1.0,1,Leaves,992
+2,467,0.875,4,Increasing leaf size,992
+7,501,0.4,5,Open flowers,992
+0,371,0.75,6,Breaking leaf buds,992
+1,390,0.2857142857142857,7,Ripe fruits,992
+9,516,1.0,7,Fruits,992
+6,500,0.75,9,Flowers or flower buds,992
+8,504,0.3333333333333333,10,Recent fruit or seed drop,992
+3,471,1.0,11,Falling leaves,992
+5,498,1.0,11,Colored leaves,992
+1,482,1.0,4,Initial growth,1633
+2,488,1.0,5,Leaves,1633
+3,500,1.0,8,Flowers or flower buds,1633
+4,501,1.0,8,Open flowers,1633
+5,504,1.0,8,Recent fruit or seed drop,1633
+6,516,0.7,8,Fruits,1633
+0,390,0.5,10,Ripe fruits,1633
+0,505,1.0,5,Young leaves,1150
+3,490,1.0,5,Pollen cones,1687
+5,495,0.3333333333333333,5,Open pollen cones,1687
+7,503,0.3333333333333333,5,Pollen release,1687
+2,486,1.0,6,Young needles,1687
+6,496,1.0,6,Emerging needles,1687
+4,491,0.16666666666666666,7,Recent cone or seed drop,1687
+1,393,1.0,9,Ripe seed cones,1687
+0,392,1.0,10,Unripe seed cones,1687
+1,482,1.0,5,Initial growth,1449
+2,488,1.0,6,Leaves,1449
+0,390,1.0,7,Ripe fruits,1449
+3,500,1.0,7,Flowers or flower buds,1449
+4,501,1.0,8,Open flowers,1449
+5,504,1.0,8,Recent fruit or seed drop,1449
+6,516,1.0,8,Fruits,1449
+0,488,1.0,6,Leaves,1328
+1,500,1.0,6,Flowers or flower buds,1328
+2,516,1.0,6,Fruits,1328
+0,371,0.47916666666666663,5,Breaking leaf buds,1698
+2,467,0.6497975708502024,5,Increasing leaf size,1698
+4,483,1.0,6,Leaves,1698
+6,500,0.6666666666666666,6,Flowers or flower buds,1698
+7,501,0.3333333333333333,6,Open flowers,1698
+8,504,0.19444444444444445,8,Recent fruit or seed drop,1698
+9,516,1.0,8,Fruits,1698
+1,390,0.6038461538461539,10,Ripe fruits,1698
+3,471,0.8365384615384616,10,Falling leaves,1698
+5,498,0.9923076923076923,10,Colored leaves,1698
+0,371,0.34,3,Breaking leaf buds,1755
+2,467,1.0,4,Increasing leaf size,1755
+4,483,1.0,4,Leaves,1755
+6,500,0.3333333333333333,4,Flowers or flower buds,1755
+7,501,0.18333333333333332,5,Open flowers,1755
+9,516,1.0,6,Fruits,1755
+1,390,1.0,9,Ripe fruits,1755
+5,498,1.0,9,Colored leaves,1755
+8,504,0.5,10,Recent fruit or seed drop,1755
+3,471,1.0,12,Falling leaves,1755
+0,390,0.7777777777777778,9,Ripe fruits,209
+1,488,1.0,9,Leaves,209
+2,500,0.2222222222222222,9,Flowers or flower buds,209
+3,501,0.2222222222222222,9,Open flowers,209
+4,504,0.7777777777777778,9,Recent fruit or seed drop,209
+5,516,0.4444444444444444,9,Fruits,209
+0,371,1.0,3,Breaking leaf buds,999
+1,471,1.0,10,Falling leaves,999
+1,390,1.0,1,Ripe fruits,1469
+3,471,0.6666666666666666,1,Falling leaves,1469
+4,483,1.0,1,Leaves,1469
+9,516,1.0,1,Fruits,1469
+0,371,0.8,2,Breaking leaf buds,1469
+5,484,1.0,2,Young leaves,1469
+2,467,1.0,3,Increasing leaf size,1469
+8,504,0.06944444444444445,4,Recent fruit or seed drop,1469
+7,500,0.25,5,Flowers or flower buds,1469
+6,498,1.0,10,Colored leaves,1469
+0,488,1.0,7,Leaves,1335
+5,500,1.0,3,Flowers or flower buds,1008
+7,502,0.6666666666666666,4,Pollen release,1008
+0,371,0.375,5,Breaking leaf buds,1008
+1,467,0.5,5,Increasing leaf size,1008
+3,483,1.0,6,Leaves,1008
+6,501,1.0,6,Open flowers,1008
+8,516,1.0,6,Fruits,1008
+2,471,1.0,10,Falling leaves,1008
+4,498,0.8333333333333334,10,Colored leaves,1008
+5,500,0.6904761904761905,4,Flowers or flower buds,27
+6,501,0.375,4,Open flowers,27
+0,371,0.25,5,Breaking leaf buds,27
+3,483,1.0,5,Leaves,27
+1,467,0.6666666666666666,6,Increasing leaf size,27
+2,471,0.6547619047619048,10,Falling leaves,27
+4,498,1.0,10,Colored leaves,27
+0,390,1.0,9,Ripe fruits,847
+1,482,1.0,9,Initial growth,847
+2,488,1.0,9,Leaves,847
+3,500,1.0,9,Flowers or flower buds,847
+4,501,1.0,9,Open flowers,847
+5,516,1.0,9,Fruits,847
+4,483,1.0,1,Leaves,1345
+0,371,1.0,3,Breaking leaf buds,1345
+2,467,1.0,4,Increasing leaf size,1345
+6,500,0.5,5,Flowers or flower buds,1345
+7,501,0.5,5,Open flowers,1345
+9,516,1.0,6,Fruits,1345
+8,504,0.6666666666666666,9,Recent fruit or seed drop,1345
+1,390,0.8148148148148149,10,Ripe fruits,1345
+5,498,1.0,10,Colored leaves,1345
+3,471,0.7222222222222222,12,Falling leaves,1345
+0,371,0.5,3,Breaking leaf buds,1200
+2,467,0.8,4,Increasing leaf size,1200
+4,483,1.0,4,Leaves,1200
+6,500,1.0,7,Flowers or flower buds,1200
+7,501,0.5,7,Open flowers,1200
+9,516,1.0,8,Fruits,1200
+1,390,1.0,9,Ripe fruits,1200
+8,504,1.0,9,Recent fruit or seed drop,1200
+5,498,1.0,10,Colored leaves,1200
+3,471,0.875,11,Falling leaves,1200
+1,482,1.0,5,Initial growth,1047
+2,488,1.0,5,Leaves,1047
+4,501,1.0,6,Open flowers,1047
+3,500,1.0,7,Flowers or flower buds,1047
+5,504,1.0,7,Recent fruit or seed drop,1047
+6,516,1.0,8,Fruits,1047
+0,390,1.0,9,Ripe fruits,1047
+1,482,1.0,3,Initial growth,147
+2,488,1.0,5,Leaves,147
+3,500,1.0,6,Flowers or flower buds,147
+4,501,1.0,6,Open flowers,147
+6,516,1.0,6,Fruits,147
+0,390,0.6,7,Ripe fruits,147
+5,504,0.6666666666666666,7,Recent fruit or seed drop,147
+0,371,1.0,3,Breaking leaf buds,325
+2,467,1.0,5,Increasing leaf size,325
+4,483,1.0,5,Leaves,325
+6,500,1.0,5,Flowers or flower buds,325
+7,501,0.3333333333333333,5,Open flowers,325
+9,516,1.0,6,Fruits,325
+1,390,0.1,7,Ripe fruits,325
+8,504,0.5,7,Recent fruit or seed drop,325
+3,471,0.75,9,Falling leaves,325
+5,498,1.0,9,Colored leaves,325
+0,371,0.3333333333333333,4,Breaking leaf buds,3
+5,500,0.5,4,Flowers or flower buds,3
+6,501,0.14285714285714285,4,Open flowers,3
+1,467,0.7041666666666666,5,Increasing leaf size,3
+3,483,1.0,5,Leaves,3
+2,471,0.6666666666666666,10,Falling leaves,3
+4,498,0.8888888888888888,10,Colored leaves,3
+1,393,0.5,3,Ripe seed cones,968
+0,392,0.85,6,Unripe seed cones,968
+2,486,1.0,6,Young needles,968
+3,490,0.95,6,Pollen cones,968
+4,491,0.2,6,Recent cone or seed drop,968
+5,495,0.2,6,Open pollen cones,968
+6,496,0.8,6,Emerging needles,968
+7,503,0.08333333333333333,7,Pollen release,968
+3,373,0.75,3,Breaking leaf buds,35
+0,205,0.3333333333333333,5,Open flowers,35
+1,206,0.14835164835164835,5,Full flowering,35
+4,374,1.0,5,All leaf buds broken,35
+2,207,0.3333333333333333,6,End of flowering,35
+4,490,0.3333333333333333,5,Pollen cones,49
+6,495,0.3333333333333333,5,Open pollen cones,49
+7,503,0.3333333333333333,5,Pollen release,49
+2,480,0.75,6,Breaking needle buds,49
+3,485,0.9,7,Young needles,49
+5,491,0.375,7,Recent cone or seed drop,49
+0,392,1.0,8,Unripe seed cones,49
+1,393,0.75,8,Ripe seed cones,49
+0,482,0.2,5,Initial growth,192
+2,500,0.6125,5,Flowers or flower buds,192
+3,501,0.3333333333333333,5,Open flowers,192
+1,488,0.9166666666666667,6,Leaves,192
+0,371,0.5454545454545454,5,Breaking leaf buds,70
+2,467,0.7368421052631579,5,Increasing leaf size,70
+4,483,1.0,6,Leaves,70
+6,500,0.8333333333333333,6,Flowers or flower buds,70
+7,501,0.4174107142857143,6,Open flowers,70
+9,516,1.0,7,Fruits,70
+1,390,0.5083333333333333,8,Ripe fruits,70
+8,504,0.3666666666666667,8,Recent fruit or seed drop,70
+3,471,0.6944444444444444,10,Falling leaves,70
+5,498,0.9861111111111112,10,Colored leaves,70
+1,489,1.0,5,Leaves,960
+2,492,0.75,5,Initial growth,960
+3,493,1.0,6,Flower heads,960
+4,494,0.75,6,Open flowers,960
+5,502,0.5,6,Pollen release,960
+0,390,0.5,7,Ripe fruits,960
+6,504,0.5,7,Recent fruit or seed drop,960
+7,516,0.5,7,Fruits,960
+0,489,1.0,1,Leaves,1600
+2,494,0.26666666666666666,4,Open flowers,1600
+1,492,0.7733333333333333,12,Initial growth,1600
+3,471,1.0,1,Falling leaves,1339
+4,483,1.0,1,Leaves,1339
+5,498,1.0,1,Colored leaves,1339
+0,371,0.5,4,Breaking leaf buds,1339
+2,467,0.7777777777777778,5,Increasing leaf size,1339
+6,500,0.711864406779661,5,Flowers or flower buds,1339
+7,501,0.423728813559322,5,Open flowers,1339
+8,502,0.1111111111111111,5,Pollen release,1339
+1,390,0.18,6,Ripe fruits,1339
+9,504,0.18,6,Recent fruit or seed drop,1339
+10,516,0.325,6,Fruits,1339
+0,510,1.0,6,New side branches,1171
+1,511,1.0,6,Receptacles,1171
+2,514,1.0,6,Dotted inflated receptacles,1171
+3,515,1.0,6,Torn receptacles,1171
+0,371,0.8333333333333334,5,Breaking leaf buds,1730
+2,467,1.0,5,Increasing leaf size,1730
+4,483,1.0,5,Leaves,1730
+6,500,1.0,5,Flowers or flower buds,1730
+9,516,1.0,7,Fruits,1730
+7,501,0.5,8,Open flowers,1730
+1,390,0.6666666666666666,9,Ripe fruits,1730
+8,504,0.3333333333333333,9,Recent fruit or seed drop,1730
+3,471,0.8,10,Falling leaves,1730
+5,498,0.8,10,Colored leaves,1730
+0,482,0.04054054054054054,3,Initial growth,1039
+3,501,1.0,4,Open flowers,1039
+4,516,0.42105263157894735,4,Fruits,1039
+1,488,1.0,5,Leaves,1039
+2,500,1.0,5,Flowers or flower buds,1039
+0,371,1.0,5,Breaking leaf buds,314
+4,483,1.0,6,Leaves,314
+2,467,1.0,7,Increasing leaf size,314
+5,498,1.0,7,Colored leaves,314
+6,500,1.0,7,Flowers or flower buds,314
+9,516,1.0,7,Fruits,314
+1,390,1.0,8,Ripe fruits,314
+7,501,1.0,8,Open flowers,314
+8,504,0.75,9,Recent fruit or seed drop,314
+3,471,1.0,11,Falling leaves,314
+0,371,0.5,4,Breaking leaf buds,1019
+1,467,0.6666666666666666,5,Increasing leaf size,1019
+3,483,1.0,5,Leaves,1019
+5,500,0.4666666666666667,5,Flowers or flower buds,1019
+6,501,0.375,5,Open flowers,1019
+2,471,0.8114035087719298,10,Falling leaves,1019
+4,498,1.0,10,Colored leaves,1019
+0,371,0.3333333333333333,4,Breaking leaf buds,1756
+1,467,1.0,5,Increasing leaf size,1756
+3,483,1.0,5,Leaves,1756
+2,471,0.6,10,Falling leaves,1756
+4,498,1.0,10,Colored leaves,1756
+1,482,1.0,3,Initial growth,1186
+2,488,1.0,3,Leaves,1186
+3,500,1.0,7,Flowers or flower buds,1186
+4,501,1.0,8,Open flowers,1186
+0,390,0.5,11,Ripe fruits,1186
+5,504,0.5,11,Recent fruit or seed drop,1186
+6,516,0.5,11,Fruits,1186
+3,498,0.21666666666666667,4,Colored leaves,844
+0,371,1.0,5,Breaking leaf buds,844
+1,467,1.0,5,Increasing leaf size,844
+2,483,1.0,5,Leaves,844
+4,500,1.0,5,Flowers or flower buds,844
+5,501,1.0,5,Open flowers,844
+0,482,1.0,4,Initial growth,747
+1,488,1.0,4,Leaves,747
+2,500,0.7777777777777778,9,Flowers or flower buds,747
+3,501,0.3333333333333333,10,Open flowers,747
+0,482,0.2857142857142857,4,Initial growth,1054
+1,488,1.0,5,Leaves,1054
+2,500,0.3333333333333333,5,Flowers or flower buds,1054
+3,501,0.3333333333333333,5,Open flowers,1054
+0,371,0.41509433962264153,4,Breaking leaf buds,68
+2,467,0.5806451612903226,5,Increasing leaf size,68
+4,483,1.0,5,Leaves,68
+6,500,0.3333333333333333,5,Flowers or flower buds,68
+7,501,0.19444444444444445,5,Open flowers,68
+9,516,0.9126984126984127,8,Fruits,68
+8,504,0.325,9,Recent fruit or seed drop,68
+5,498,1.0,10,Colored leaves,68
+3,471,1.0,11,Falling leaves,68
+1,390,0.5,12,Ripe fruits,68
+0,482,0.46875,4,Initial growth,792
+2,500,0.7058823529411765,4,Flowers or flower buds,792
+1,488,1.0,5,Leaves,792
+3,501,0.7142857142857143,5,Open flowers,792
+4,516,0.125,5,Fruits,792
+0,371,1.0,6,Breaking leaf buds,903
+2,484,1.0,6,Young leaves,903
+3,500,0.8888888888888888,6,Flowers or flower buds,903
+4,501,0.6666666666666666,6,Open flowers,903
+6,516,1.0,8,Fruits,903
+5,504,0.5833333333333334,10,Recent fruit or seed drop,903
+1,390,0.8333333333333334,11,Ripe fruits,903
+4,483,1.0,2,Leaves,1190
+0,371,0.5142857142857142,4,Breaking leaf buds,1190
+2,467,0.75,5,Increasing leaf size,1190
+6,500,0.35,5,Flowers or flower buds,1190
+7,501,0.1,5,Open flowers,1190
+9,516,0.6785714285714286,7,Fruits,1190
+1,390,0.5083333333333333,10,Ripe fruits,1190
+3,471,0.875,10,Falling leaves,1190
+5,498,1.0,10,Colored leaves,1190
+8,504,0.6333333333333333,10,Recent fruit or seed drop,1190
+0,482,1.0,5,Initial growth,843
+2,500,0.6,6,Flowers or flower buds,843
+1,488,1.0,7,Leaves,843
+3,501,1.0,7,Open flowers,843
+4,516,1.0,8,Fruits,843
+6,500,1.0,2,Flowers or flower buds,1215
+7,501,0.375,2,Open flowers,1215
+8,502,0.05,3,Pollen release,1215
+0,371,0.775,4,Breaking leaf buds,1215
+1,390,0.675,4,Ripe fruits,1215
+2,467,0.775,4,Increasing leaf size,1215
+10,516,0.775,4,Fruits,1215
+4,483,1.0,5,Leaves,1215
+9,504,0.5,5,Recent fruit or seed drop,1215
+3,471,0.6666666666666666,10,Falling leaves,1215
+5,498,1.0,10,Colored leaves,1215
+0,482,0.47916666666666663,3,Initial growth,1164
+2,500,0.875,4,Flowers or flower buds,1164
+3,501,0.7321428571428572,4,Open flowers,1164
+1,488,1.0,5,Leaves,1164
+4,516,0.5,5,Fruits,1164
+0,371,0.3333333333333333,4,Breaking leaf buds,781
+6,500,0.5777777777777777,4,Flowers or flower buds,781
+7,501,0.554945054945055,4,Open flowers,781
+1,390,0.0625,5,Ripe fruits,781
+2,467,0.7321428571428572,5,Increasing leaf size,781
+4,483,1.0,5,Leaves,781
+8,504,0.25,5,Recent fruit or seed drop,781
+9,516,0.5833333333333333,5,Fruits,781
+3,471,0.8,10,Falling leaves,781
+5,498,1.0,10,Colored leaves,781
+1,482,1.0,1,Initial growth,1035
+3,500,1.0,1,Flowers or flower buds,1035
+4,516,1.0,3,Fruits,1035
+2,488,1.0,4,Leaves,1035
+0,390,0.125,5,Ripe fruits,1035
+2,492,0.7,3,Initial growth,1441
+1,489,1.0,6,Leaves,1441
+3,493,0.5,6,Flower heads,1441
+4,516,0.5,6,Fruits,1441
+0,390,0.5,7,Ripe fruits,1441
+0,482,0.2857142857142857,4,Initial growth,973
+2,500,0.85,5,Flowers or flower buds,973
+3,501,0.75,5,Open flowers,973
+1,488,1.0,6,Leaves,973
+1,390,1.0,1,Ripe fruits,994
+8,516,1.0,1,Fruits,994
+0,371,0.675,5,Breaking leaf buds,994
+2,467,0.5,6,Increasing leaf size,994
+4,483,1.0,6,Leaves,994
+6,500,0.8333333333333333,7,Flowers or flower buds,994
+7,501,1.0,7,Open flowers,994
+3,471,0.5,9,Falling leaves,994
+5,498,1.0,9,Colored leaves,994
+0,371,1.0,3,Breaking leaf buds,1753
+1,467,1.0,3,Increasing leaf size,1753
+2,483,1.0,3,Leaves,1753
+3,500,0.5,5,Flowers or flower buds,1753
+4,501,0.5,5,Open flowers,1753
+0,371,0.6666666666666666,4,Breaking leaf buds,1217
+2,467,0.3640132669983416,4,Increasing leaf size,1217
+4,483,1.0,6,Leaves,1217
+6,500,0.10714285714285714,6,Flowers or flower buds,1217
+7,501,0.14285714285714285,6,Open flowers,1217
+8,516,1.0,8,Fruits,1217
+1,390,0.26666666666666666,9,Ripe fruits,1217
+3,471,0.2857142857142857,10,Falling leaves,1217
+5,498,0.8333333333333334,10,Colored leaves,1217
+1,482,0.5,5,Initial growth,882
+2,488,1.0,5,Leaves,882
+3,500,0.8333333333333334,5,Flowers or flower buds,882
+4,501,0.6666666666666666,5,Open flowers,882
+0,390,0.2,6,Ripe fruits,882
+6,516,0.5,6,Fruits,882
+5,504,0.2,7,Recent fruit or seed drop,882
+1,482,0.9375,5,Initial growth,1454
+2,488,1.0,6,Leaves,1454
+3,500,1.0,8,Flowers or flower buds,1454
+4,501,1.0,8,Open flowers,1454
+0,390,0.875,10,Ripe fruits,1454
+5,504,0.40625,10,Recent fruit or seed drop,1454
+6,516,0.875,10,Fruits,1454
+0,482,1.0,4,Initial growth,155
+1,488,1.0,4,Leaves,155
+0,371,0.5681818181818181,5,Breaking leaf buds,315
+2,467,0.6111111111111112,6,Increasing leaf size,315
+4,483,1.0,6,Leaves,315
+6,500,0.7777777777777778,7,Flowers or flower buds,315
+7,501,0.5294117647058824,7,Open flowers,315
+5,498,1.0,9,Colored leaves,315
+1,390,1.0,10,Ripe fruits,315
+8,516,1.0,10,Fruits,315
+3,471,1.0,11,Falling leaves,315
+2,488,1.0,5,Leaves,1046
+3,500,0.6333333333333333,6,Flowers or flower buds,1046
+4,501,0.5,6,Open flowers,1046
+5,516,1.0,7,Fruits,1046
+0,390,0.5,8,Ripe fruits,1046
+1,482,0.5,9,Initial growth,1046
+1,488,1.0,2,Leaves,205
+0,482,1.0,6,Initial growth,205
+1,482,1.0,2,Initial growth,1050
+2,488,1.0,2,Leaves,1050
+3,500,1.0,7,Flowers or flower buds,1050
+4,501,0.5666666666666667,7,Open flowers,1050
+0,390,1.0,9,Ripe fruits,1050
+5,516,1.0,9,Fruits,1050
+0,371,0.4,4,Breaking leaf buds,60
+1,467,0.7633333333333333,5,Increasing leaf size,60
+3,483,1.0,5,Leaves,60
+5,501,0.030555555555555555,5,Open flowers,60
+6,516,0.14285714285714285,7,Fruits,60
+2,471,0.5882352941176471,10,Falling leaves,60
+4,498,0.9568965517241379,10,Colored leaves,60
+0,371,0.25,4,Breaking leaf buds,61
+1,467,0.7155303030303031,5,Increasing leaf size,61
+3,483,1.0,5,Leaves,61
+5,500,0.14835164835164835,5,Flowers or flower buds,61
+6,501,0.075,5,Open flowers,61
+7,516,0.05128205128205128,6,Fruits,61
+2,471,0.7266187050359713,10,Falling leaves,61
+4,498,0.9436619718309859,10,Colored leaves,61
+1,482,1.0,5,Initial growth,170
+2,488,1.0,5,Leaves,170
+3,500,0.8,5,Flowers or flower buds,170
+4,501,0.5,5,Open flowers,170
+0,390,0.5,6,Ripe fruits,170
+5,504,0.5,6,Recent fruit or seed drop,170
+6,516,0.5,6,Fruits,170
+1,482,0.25,5,Initial growth,197
+2,488,1.0,6,Leaves,197
+3,500,1.0,6,Flowers or flower buds,197
+4,501,1.0,7,Open flowers,197
+6,516,1.0,8,Fruits,197
+0,390,0.4,9,Ripe fruits,197
+5,504,0.3,9,Recent fruit or seed drop,197
+0,371,0.5,4,Breaking leaf buds,98
+5,500,0.2857142857142857,4,Flowers or flower buds,98
+1,467,1.0,5,Increasing leaf size,98
+3,483,1.0,5,Leaves,98
+2,471,0.7119565217391304,10,Falling leaves,98
+4,498,1.0,10,Colored leaves,98
+6,516,0.16666666666666666,11,Fruits,98
+3,483,1.0,1,Leaves,923
+0,371,0.71875,4,Breaking leaf buds,923
+1,467,0.6545454545454545,5,Increasing leaf size,923
+5,500,0.40789473684210525,5,Flowers or flower buds,923
+6,501,0.25,6,Open flowers,923
+7,516,0.4126984126984127,7,Fruits,923
+2,471,0.5,11,Falling leaves,923
+4,498,1.0,11,Colored leaves,923
+6,504,0.26666666666666666,1,Recent fruit or seed drop,81
+0,371,0.3568181818181818,3,Breaking leaf buds,81
+2,467,0.8666666666666667,5,Increasing leaf size,81
+4,483,1.0,5,Leaves,81
+5,498,1.0,10,Colored leaves,81
+7,516,1.0,10,Fruits,81
+3,471,0.955,11,Falling leaves,81
+1,390,0.25,12,Ripe fruits,81
+2,492,0.5,4,Initial growth,137
+1,489,1.0,5,Leaves,137
+3,493,0.75,8,Flower heads,137
+4,494,0.5833333333333333,8,Open flowers,137
+5,502,0.25,8,Pollen release,137
+6,516,1.0,9,Fruits,137
+0,390,1.0,10,Ripe fruits,137
+6,500,0.5,4,Flowers or flower buds,780
+7,501,0.25,4,Open flowers,780
+0,371,0.6666666666666666,5,Breaking leaf buds,780
+2,467,0.9,5,Increasing leaf size,780
+4,483,1.0,5,Leaves,780
+8,502,0.1,6,Pollen release,780
+9,516,0.4,6,Fruits,780
+1,390,0.125,8,Ripe fruits,780
+3,471,0.75,10,Falling leaves,780
+5,498,1.0,10,Colored leaves,780
+3,481,0.8333333333333333,4,Breaking needle buds,45
+4,487,1.0,5,Needles,45
+5,490,0.6666666666666666,5,Pollen cones,45
+0,392,0.9090909090909092,6,Unripe seed cones,45
+6,495,0.0625,7,Open pollen cones,45
+1,393,0.5,8,Ripe seed cones,45
+7,499,0.8,10,Colored needles,45
+2,472,0.7431818181818182,11,Falling needles,45
+1,484,1.0,3,Young leaves,128
+0,483,1.0,4,Leaves,128
+2,500,1.0,5,Flowers or flower buds,128
+3,501,1.0,7,Open flowers,128
+2,467,1.0,4,Increasing leaf size,770
+4,483,1.0,4,Leaves,770
+0,371,0.5,5,Breaking leaf buds,770
+6,500,0.8,6,Flowers or flower buds,770
+7,501,0.75,6,Open flowers,770
+8,516,1.0,7,Fruits,770
+1,390,1.0,8,Ripe fruits,770
+3,471,1.0,10,Falling leaves,770
+5,498,1.0,10,Colored leaves,770
+1,390,1.0,1,Ripe fruits,1472
+8,504,1.0,1,Recent fruit or seed drop,1472
+9,516,1.0,1,Fruits,1472
+0,371,0.7916666666666667,4,Breaking leaf buds,1472
+2,467,1.0,4,Increasing leaf size,1472
+6,500,0.625,5,Flowers or flower buds,1472
+7,501,0.4583333333333333,5,Open flowers,1472
+4,483,1.0,6,Leaves,1472
+3,471,1.0,9,Falling leaves,1472
+5,498,1.0,9,Colored leaves,1472
+1,500,0.375,3,Flowers or flower buds,861
+0,484,1.0,9,Young leaves,861
+0,371,0.5,4,Breaking leaf buds,1719
+1,467,1.0,9,Increasing leaf size,1719
+3,483,1.0,9,Leaves,1719
+2,471,0.5,10,Falling leaves,1719
+4,498,0.5,10,Colored leaves,1719
+0,371,0.5,3,Breaking leaf buds,309
+1,467,1.0,4,Increasing leaf size,309
+2,483,1.0,4,Leaves,309
+4,500,1.0,6,Flowers or flower buds,309
+5,501,1.0,6,Open flowers,309
+3,498,1.0,9,Colored leaves,309
+4,483,1.0,3,Leaves,920
+0,371,0.625,4,Breaking leaf buds,920
+2,467,0.8333333333333334,5,Increasing leaf size,920
+6,500,1.0,5,Flowers or flower buds,920
+7,501,1.0,7,Open flowers,920
+5,498,0.25,10,Colored leaves,920
+3,471,0.5,11,Falling leaves,920
+1,390,1.0,12,Ripe fruits,920
+8,516,1.0,12,Fruits,920
+0,488,1.0,6,Leaves,1614
+0,492,1.0,3,Initial growth,135
+1,493,1.0,5,Flower heads,135
+2,516,1.0,5,Fruits,135
+0,371,0.5,4,Breaking leaf buds,82
+1,467,0.6666666666666666,4,Increasing leaf size,82
+3,483,1.0,5,Leaves,82
+5,500,0.4083333333333333,5,Flowers or flower buds,82
+6,501,0.255,5,Open flowers,82
+7,516,0.25,7,Fruits,82
+4,498,1.0,9,Colored leaves,82
+2,471,1.0,10,Falling leaves,82
+0,482,1.0,6,Initial growth,914
+1,488,1.0,6,Leaves,914
+1,494,0.302158273381295,5,Open flowers,431
+0,492,0.996969696969697,6,Initial growth,431
+2,497,1.0,6,Leaves,431
+3,505,1.0,5,Young leaves,19
+1,500,0.5,6,Flowers or flower buds,19
+2,501,0.5,6,Open flowers,19
+0,390,0.5,7,Ripe fruits,19
+4,516,0.5,7,Fruits,19
+0,371,0.6,4,Breaking leaf buds,1185
+1,467,0.25,4,Increasing leaf size,1185
+3,483,1.0,5,Leaves,1185
+6,516,0.5,6,Fruits,1185
+5,500,0.045454545454545456,10,Flowers or flower buds,1185
+2,471,0.5666666666666667,11,Falling leaves,1185
+4,498,0.6666666666666666,11,Colored leaves,1185
+0,371,0.6666666666666666,4,Breaking leaf buds,1031
+2,467,1.0,4,Increasing leaf size,1031
+4,483,1.0,5,Leaves,1031
+6,500,1.0,5,Flowers or flower buds,1031
+7,501,0.6,5,Open flowers,1031
+8,504,1.0,6,Recent fruit or seed drop,1031
+9,516,1.0,6,Fruits,1031
+1,390,1.0,7,Ripe fruits,1031
+5,498,1.0,10,Colored leaves,1031
+3,471,1.0,11,Falling leaves,1031
+0,482,0.5462962962962963,3,Initial growth,176
+1,488,1.0,4,Leaves,176
+2,500,0.75,4,Flowers or flower buds,176
+3,501,0.6,5,Open flowers,176
+0,371,1.0,5,Breaking leaf buds,952
+2,467,1.0,5,Increasing leaf size,952
+4,483,1.0,5,Leaves,952
+6,500,0.2,7,Flowers or flower buds,952
+7,501,0.2,7,Open flowers,952
+5,498,0.5416666666666666,9,Colored leaves,952
+3,471,0.5,10,Falling leaves,952
+1,390,0.75,12,Ripe fruits,952
+8,504,0.75,12,Recent fruit or seed drop,952
+9,516,0.75,12,Fruits,952
+0,482,0.7083333333333333,3,Initial growth,8
+1,488,1.0,3,Leaves,8
+2,500,1.0,4,Flowers or flower buds,8
+3,501,0.75,4,Open flowers,8
+4,516,0.16578947368421054,4,Fruits,8
+1,482,0.125,5,Initial growth,17
+2,488,1.0,5,Leaves,17
+3,500,0.7083333333333333,6,Flowers or flower buds,17
+4,501,0.5833333333333333,6,Open flowers,17
+6,516,0.3333333333333333,6,Fruits,17
+0,390,0.26666666666666666,7,Ripe fruits,17
+5,504,0.1,7,Recent fruit or seed drop,17
+1,492,0.5,5,Initial growth,433
+2,493,0.25,5,Flower heads,433
+3,494,0.25,6,Open flowers,433
+0,390,1.0,7,Ripe fruits,433
+4,497,1.0,7,Leaves,433
+5,504,1.0,8,Recent fruit or seed drop,433
+0,488,1.0,9,Leaves,998
+1,500,1.0,9,Flowers or flower buds,998
+2,501,1.0,9,Open flowers,998
+0,371,0.9923469387755102,5,Breaking leaf buds,1647
+1,467,0.6568877551020409,5,Increasing leaf size,1647
+5,501,0.617816091954023,7,Open flowers,1647
+3,483,1.0,8,Leaves,1647
+4,498,1.0,10,Colored leaves,1647
+2,471,1.0,11,Falling leaves,1647
+0,489,1.0,3,Leaves,138
+1,492,1.0,3,Initial growth,138
+2,493,1.0,10,Flower heads,138
+4,502,0.3333333333333333,10,Pollen release,138
+3,494,0.6666666666666666,11,Open flowers,138
+0,371,0.2097953216374269,5,Breaking leaf buds,74
+1,467,0.5080645161290323,5,Increasing leaf size,74
+3,483,1.0,6,Leaves,74
+4,498,0.6666666666666666,9,Colored leaves,74
+2,471,0.43333333333333335,10,Falling leaves,74
+2,488,1.0,1,Leaves,1740
+1,482,0.7142857142857143,4,Initial growth,1740
+6,505,1.0,4,Young leaves,1740
+3,500,0.8,6,Flowers or flower buds,1740
+4,501,0.6,7,Open flowers,1740
+7,516,1.0,7,Fruits,1740
+0,390,0.55,9,Ripe fruits,1740
+5,504,0.525,9,Recent fruit or seed drop,1740
+0,482,0.2857142857142857,4,Initial growth,782
+1,488,1.0,6,Leaves,782
+1,482,0.75,4,Initial growth,191
+2,488,1.0,5,Leaves,191
+3,500,1.0,6,Flowers or flower buds,191
+4,501,1.0,6,Open flowers,191
+0,390,1.0,9,Ripe fruits,191
+5,504,1.0,9,Recent fruit or seed drop,191
+6,516,1.0,9,Fruits,191
+1,480,0.6666666666666666,5,Breaking needle buds,40
+2,485,1.0,5,Young needles,40
+0,393,1.0,11,Ripe seed cones,40
+3,490,1.0,11,Pollen cones,40
+4,495,1.0,11,Open pollen cones,40
+0,467,1.0,11,Increasing leaf size,1728
+2,483,1.0,11,Leaves,1728
+3,500,0.5,11,Flowers or flower buds,1728
+4,501,1.0,11,Open flowers,1728
+5,504,1.0,11,Recent fruit or seed drop,1728
+1,471,1.0,12,Falling leaves,1728
+1,482,0.2222222222222222,5,Initial growth,207
+2,488,1.0,10,Leaves,207
+3,500,0.5307692307692308,10,Flowers or flower buds,207
+4,501,0.5307692307692308,10,Open flowers,207
+0,390,0.6666666666666666,11,Ripe fruits,207
+5,504,0.38888888888888884,11,Recent fruit or seed drop,207
+6,516,0.6666666666666666,11,Fruits,207
+0,371,0.3333333333333333,4,Breaking leaf buds,100
+1,467,0.75,5,Increasing leaf size,100
+3,483,1.0,5,Leaves,100
+5,500,0.07142857142857142,5,Flowers or flower buds,100
+2,471,0.9,11,Falling leaves,100
+4,498,1.0,11,Colored leaves,100
+1,482,0.375,4,Initial growth,786
+2,488,1.0,6,Leaves,786
+3,500,0.5555555555555556,8,Flowers or flower buds,786
+4,501,0.5,9,Open flowers,786
+0,390,0.6,10,Ripe fruits,786
+5,504,0.275,10,Recent fruit or seed drop,786
+6,516,0.6,10,Fruits,786
+2,480,0.8888888888888888,5,Breaking needle buds,47
+4,490,0.5833333333333334,5,Pollen cones,47
+7,503,0.1111111111111111,5,Pollen release,47
+3,485,0.6666666666666667,6,Young needles,47
+0,392,1.0,7,Unripe seed cones,47
+1,393,0.8333333333333333,11,Ripe seed cones,47
+5,491,0.5,11,Recent cone or seed drop,47
+6,495,0.5,11,Open pollen cones,47
+0,482,0.16666666666666666,4,Initial growth,38
+1,488,1.0,5,Leaves,38
+2,500,0.5833333333333333,5,Flowers or flower buds,38
+3,501,0.55,5,Open flowers,38
+1,482,0.27884615384615385,4,Initial growth,726
+2,488,1.0,5,Leaves,726
+3,500,0.6666666666666666,9,Flowers or flower buds,726
+4,501,0.6666666666666666,9,Open flowers,726
+0,390,0.8333333333333334,11,Ripe fruits,726
+5,504,0.08333333333333333,11,Recent fruit or seed drop,726
+6,516,0.75,11,Fruits,726
+1,482,1.0,5,Initial growth,1337
+2,488,1.0,7,Leaves,1337
+3,500,1.0,7,Flowers or flower buds,1337
+4,501,1.0,7,Open flowers,1337
+5,504,1.0,8,Recent fruit or seed drop,1337
+6,516,1.0,8,Fruits,1337
+0,390,1.0,10,Ripe fruits,1337
+1,482,0.5238095238095238,5,Initial growth,931
+2,488,1.0,5,Leaves,931
+3,500,0.75,8,Flowers or flower buds,931
+4,501,0.6666666666666666,8,Open flowers,931
+5,504,0.5,10,Recent fruit or seed drop,931
+0,390,1.0,12,Ripe fruits,931
+6,516,1.0,12,Fruits,931
+0,390,1.0,8,Ripe fruits,1827
+1,488,0.4,8,Leaves,1827
+2,504,0.8,8,Recent fruit or seed drop,1827
+0,482,0.2857142857142857,4,Initial growth,791
+1,488,1.0,5,Leaves,791
+2,500,0.41666666666666663,5,Flowers or flower buds,791
+3,501,0.00911854103343465,5,Open flowers,791
+0,371,1.0,4,Breaking leaf buds,96
+2,467,1.0,4,Increasing leaf size,96
+4,483,1.0,5,Leaves,96
+6,500,1.0,5,Flowers or flower buds,96
+7,501,0.5,5,Open flowers,96
+9,516,1.0,8,Fruits,96
+1,390,0.9259259259259259,10,Ripe fruits,96
+3,471,0.8888888888888888,10,Falling leaves,96
+5,498,1.0,10,Colored leaves,96
+8,504,0.7962962962962963,10,Recent fruit or seed drop,96
+0,371,0.3,5,Breaking leaf buds,993
+2,483,1.0,6,Leaves,993
+4,500,0.4117647058823529,8,Flowers or flower buds,993
+5,501,0.4117647058823529,8,Open flowers,993
+1,390,0.25,9,Ripe fruits,993
+3,498,0.7941176470588236,9,Colored leaves,993
+6,516,0.25,9,Fruits,993
+0,488,1.0,5,Leaves,1738
+1,500,1.0,5,Flowers or flower buds,1738
+2,501,1.0,5,Open flowers,1738
+1,482,0.42857142857142855,4,Initial growth,1770
+2,488,1.0,5,Leaves,1770
+3,500,1.0,9,Flowers or flower buds,1770
+4,501,0.6666666666666666,9,Open flowers,1770
+6,516,1.0,10,Fruits,1770
+0,390,1.0,11,Ripe fruits,1770
+5,504,1.0,11,Recent fruit or seed drop,1770
+0,482,0.5,6,Initial growth,299
+1,488,0.5,6,Leaves,299
+0,371,0.1724137931034483,5,Breaking leaf buds,97
+6,500,0.4,5,Flowers or flower buds,97
+7,501,0.16666666666666666,5,Open flowers,97
+2,467,0.7638888888888888,6,Increasing leaf size,97
+4,483,1.0,6,Leaves,97
+5,498,0.9814814814814814,9,Colored leaves,97
+1,390,0.5869047619047619,10,Ripe fruits,97
+9,516,0.6428571428571428,10,Fruits,97
+3,471,0.5555555555555556,12,Falling leaves,97
+8,504,0.5555555555555556,12,Recent fruit or seed drop,97
+1,482,1.0,3,Initial growth,6
+2,488,1.0,3,Leaves,6
+3,500,1.0,3,Flowers or flower buds,6
+4,501,0.5,5,Open flowers,6
+6,516,1.0,6,Fruits,6
+0,390,0.2,7,Ripe fruits,6
+5,504,0.4,7,Recent fruit or seed drop,6
+0,482,1.0,4,Initial growth,939
+1,488,1.0,6,Leaves,939
+2,500,1.0,6,Flowers or flower buds,939
+3,501,1.0,6,Open flowers,939
+4,516,1.0,8,Fruits,939
+0,482,0.5,9,Initial growth,154
+1,488,1.0,9,Leaves,154
+2,500,0.6666666666666666,9,Flowers or flower buds,154
+3,501,0.3333333333333333,9,Open flowers,154
+1,482,1.0,5,Initial growth,175
+2,488,1.0,5,Leaves,175
+3,500,1.0,6,Flowers or flower buds,175
+4,501,1.0,6,Open flowers,175
+0,390,0.5,7,Ripe fruits,175
+5,504,0.3333333333333333,7,Recent fruit or seed drop,175
+6,516,1.0,7,Fruits,175
